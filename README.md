@@ -1,6 +1,6 @@
 # Goals and Targets
 
-** Source: ** Extracted from the Sustainable Development Goals website on March 22, 2016: https://sustainabledevelopment.un.org/?menu=1300
+**Source:** Extracted from the Sustainable Development Goals website on March 22, 2016: https://sustainabledevelopment.un.org/?menu=1300
 
 # Provisional Proposed Tiers for Global SDG Indicators as of March 24, 2016
 
