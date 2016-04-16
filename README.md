@@ -1,8 +1,10 @@
+# Goals and Targets
+
+** Source: ** Extracted from the Sustainable Development Goals website on March 22, 2016: https://sustainabledevelopment.un.org/?menu=1300
+
 # Provisional Proposed Tiers for Global SDG Indicators as of March 24, 2016
 
-## Source
-
-[**Provisional-Proposed-Tiers-for-SDG-Indicators-24-03-16.pdf**](http://unstats.un.org/sdgs/files/meetings/iaeg-sdgs-meeting-03/Provisional-Proposed-Tiers-for-SDG-Indicators-24-03-16.pdf), available in the `Documents` section of the summary page of the [Third meeting of the IAEG-SDGs](http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-03).
+**Source:** [**Provisional-Proposed-Tiers-for-SDG-Indicators-24-03-16.pdf**](http://unstats.un.org/sdgs/files/meetings/iaeg-sdgs-meeting-03/Provisional-Proposed-Tiers-for-SDG-Indicators-24-03-16.pdf), available in the `Documents` section of the summary page of the [Third meeting of the IAEG-SDGs](http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-03).
 
 ## Important information from the source document
 
@@ -19,3 +21,4 @@ The Secretariat reviewed and compiled. It also reviewed the proposed tier assign
 ***This file is very preliminary in nature.*** It will be updated and revised as additional and new information is received from both agencies and countries. This file is intended as a discussion document for the 3rd IAEG-SDG meeting. It is planned that the discussion at the meeting will focus predominately on those indicators classified as Tier III. 
 
 Possible custodian agencies, other interested agencies and the tier classification itself may be changed moving forward, based on discussions at the 3rd meeting of the IAEG-SDG and in the future.
+
