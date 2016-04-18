@@ -1,6 +1,6 @@
 # Source
 
-Please see the (main README)[../README.md] file for information on source of the goals, targets, and indicators.
+Please see the [main README](../README.md) file for information on source of the goals, targets, and indicators.
 
 # Script
 
