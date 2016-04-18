@@ -6,7 +6,7 @@
 - **[SDG-indicators_proposed-2016-03-24.csv](SDG-indicators_proposed-2016-03-24.csv):** A CSV file of the proposed indicators, as described below.
 - **[json versions](json versions)**: A folder containing a python script that reads in the information from the above CSV files, and outputs it to various json files. The script and its output files are described [here](json versions/README.md).
 
-*Please feel free to report any errors in the [issues](issues) section.*
+*Please feel free to report any errors in the [issues](https://github.com/datapopalliance/SDGs/issues) section.*
 
 # Goals and Targets
 
