@@ -1,3 +1,13 @@
+# Summary of key files in this repository
+
+- **[Goals, Target, and Indicators.xlsx](Goals, Target, and Indicators.xlsx):**  An Excel spreadsheets which contains codes and descriptions for each goal, target, and indicators of the SDGs (on separate tabs).
+- **[SDG-goals.csv](SDG-goals.csv):**  A CSV file of the goals (code and description).
+- **[SDG-targets.csv](SDG-targets.csv):**  A CSV file of the targets (code and description).
+- **[SDG-indicators_proposed-2016-03-24.csv](SDG-indicators_proposed-2016-03-24.csv):** A CSV file of the proposed indicators, as described below.
+- **[json versions](json versions)**: A folder containing a python script that reads in the information from the above CSV files, and outputs it to various json files. The script and its output files are described [here](json versions/README.md).
+
+*Please feel free to report any errors in the [issues](issues) section.*
+
 # Goals and Targets
 
 **Source:** Extracted from the Sustainable Development Goals website on March 22, 2016: https://sustainabledevelopment.un.org/?menu=1300
