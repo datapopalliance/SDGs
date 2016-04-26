@@ -2573,9 +2573,20 @@
                 "type": "target"
             }, 
             "target_3_6": {
-                "children": [], 
+                "children": [
+                    "indicator_3_6_1"
+                ], 
                 "description": "By 2020, halve the number of global deaths and injuries from road traffic accidents", 
-                "indicators": {}, 
+                "indicators": {
+                    "indicator_3_6_1": {
+                        "children": [], 
+                        "description": "Death rate due to road traffic injuries", 
+                        "number": "3.6.1", 
+                        "parent": "target_3_6", 
+                        "slug": "indicator_3_6_1", 
+                        "type": "indicator"
+                    }
+                }, 
                 "number": "3.6", 
                 "parent": "goal_3", 
                 "slug": "target_3_6", 
@@ -2819,9 +2830,20 @@
                 "type": "target"
             }, 
             "target_4_3": {
-                "children": [], 
+                "children": [
+                    "indicator_4_3_1"
+                ], 
                 "description": "By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university ", 
-                "indicators": {}, 
+                "indicators": {
+                    "indicator_4_3_1": {
+                        "children": [], 
+                        "description": " Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex", 
+                        "number": "4.3.1", 
+                        "parent": "target_4_3", 
+                        "slug": "indicator_4_3_1", 
+                        "type": "indicator"
+                    }
+                }, 
                 "number": "4.3", 
                 "parent": "goal_4", 
                 "slug": "target_4_3", 
