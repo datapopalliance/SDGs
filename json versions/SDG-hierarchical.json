@@ -26,6 +26,14 @@
                         "number": "1.1.1", 
                         "parent": "target_1_1", 
                         "slug": "indicator_1_1_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -47,6 +55,14 @@
                         "number": "1.2.1", 
                         "parent": "target_1_2", 
                         "slug": "indicator_1_2_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_1_2_2": {
@@ -55,6 +71,14 @@
                         "number": "1.2.2", 
                         "parent": "target_1_2", 
                         "slug": "indicator_1_2_2", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -75,6 +99,14 @@
                         "number": "1.3.1", 
                         "parent": "target_1_3", 
                         "slug": "indicator_1_3_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I - data coverage"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -96,6 +128,14 @@
                         "number": "1.4.1", 
                         "parent": "target_1_4", 
                         "slug": "indicator_1_4_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_1_4_2": {
@@ -104,6 +144,14 @@
                         "number": "1.4.2", 
                         "parent": "target_1_4", 
                         "slug": "indicator_1_4_2", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -126,6 +174,14 @@
                         "number": "1.5.1", 
                         "parent": "target_1_5", 
                         "slug": "indicator_1_5_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_1_5_2": {
@@ -134,6 +190,14 @@
                         "number": "1.5.2", 
                         "parent": "target_1_5", 
                         "slug": "indicator_1_5_2", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_1_5_3": {
@@ -142,6 +206,14 @@
                         "number": "1.5.3", 
                         "parent": "target_1_5", 
                         "slug": "indicator_1_5_3", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -163,6 +235,14 @@
                         "number": "1.a.1", 
                         "parent": "target_1_a", 
                         "slug": "indicator_1_a_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_1_a_2": {
@@ -171,6 +251,14 @@
                         "number": "1.a.2", 
                         "parent": "target_1_a", 
                         "slug": "indicator_1_a_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III - need to establish reporting mechanism"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -191,6 +279,14 @@
                         "number": "1.b.1", 
                         "parent": "target_1_b", 
                         "slug": "indicator_1_b_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -232,6 +328,14 @@
                         "number": "10.1.1", 
                         "parent": "target_10_1", 
                         "slug": "indicator_10_1_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -252,6 +356,14 @@
                         "number": "10.2.1", 
                         "parent": "target_10_2", 
                         "slug": "indicator_10_2_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -272,6 +384,14 @@
                         "number": "10.3.1", 
                         "parent": "target_10_3", 
                         "slug": "indicator_10_3_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -292,6 +412,14 @@
                         "number": "10.4.1", 
                         "parent": "target_10_4", 
                         "slug": "indicator_10_4_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -312,6 +440,14 @@
                         "number": "10.5.1", 
                         "parent": "target_10_5", 
                         "slug": "indicator_10_5_1", 
+                        "tier_proposed": {
+                            "code": "-", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -332,6 +468,14 @@
                         "number": "10.6.1", 
                         "parent": "target_10_6", 
                         "slug": "indicator_10_6_1", 
+                        "tier_proposed": {
+                            "code": "-", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -353,6 +497,14 @@
                         "number": "10.7.1", 
                         "parent": "target_10_7", 
                         "slug": "indicator_10_7_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_10_7_2": {
@@ -361,6 +513,14 @@
                         "number": "10.7.2", 
                         "parent": "target_10_7", 
                         "slug": "indicator_10_7_2", 
+                        "tier_proposed": {
+                            "code": "multiple", 
+                            "description": "Tier II (IOM) / Tier III (WB)"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -381,6 +541,14 @@
                         "number": "10.a.1", 
                         "parent": "target_10_a", 
                         "slug": "indicator_10_a_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -401,6 +569,14 @@
                         "number": "10.b.1", 
                         "parent": "target_10_b", 
                         "slug": "indicator_10_b_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "multiple", 
+                            "description": "Tier I (ODA) / Tier II (FDI)"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -421,6 +597,14 @@
                         "number": "10.c.1", 
                         "parent": "target_10_c", 
                         "slug": "indicator_10_c_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -462,6 +646,14 @@
                         "number": "11.1.1", 
                         "parent": "target_11_1", 
                         "slug": "indicator_11_1_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -482,6 +674,14 @@
                         "number": "11.2.1", 
                         "parent": "target_11_2", 
                         "slug": "indicator_11_2_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -503,6 +703,14 @@
                         "number": "11.3.1", 
                         "parent": "target_11_3", 
                         "slug": "indicator_11_3_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_11_3_2": {
@@ -511,6 +719,14 @@
                         "number": "11.3.2", 
                         "parent": "target_11_3", 
                         "slug": "indicator_11_3_2", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -531,6 +747,14 @@
                         "number": "11.4.1", 
                         "parent": "target_11_4", 
                         "slug": "indicator_11_4_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -552,6 +776,14 @@
                         "number": "11.5.1", 
                         "parent": "target_11_5", 
                         "slug": "indicator_11_5_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_11_5_2": {
@@ -560,6 +792,14 @@
                         "number": "11.5.2", 
                         "parent": "target_11_5", 
                         "slug": "indicator_11_5_2", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -581,6 +821,14 @@
                         "number": "11.6.1", 
                         "parent": "target_11_6", 
                         "slug": "indicator_11_6_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_11_6_2": {
@@ -589,6 +837,14 @@
                         "number": "11.6.2", 
                         "parent": "target_11_6", 
                         "slug": "indicator_11_6_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -610,6 +866,14 @@
                         "number": "11.7.1", 
                         "parent": "target_11_7", 
                         "slug": "indicator_11_7_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_11_7_2": {
@@ -618,6 +882,14 @@
                         "number": "11.7.2", 
                         "parent": "target_11_7", 
                         "slug": "indicator_11_7_2", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -638,6 +910,14 @@
                         "number": "11.a.1", 
                         "parent": "target_11_a", 
                         "slug": "indicator_11_a_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -659,6 +939,14 @@
                         "number": "11.b.1", 
                         "parent": "target_11_b", 
                         "slug": "indicator_11_b_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_11_b_2": {
@@ -667,6 +955,14 @@
                         "number": "11.b.2", 
                         "parent": "target_11_b", 
                         "slug": "indicator_11_b_2", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -687,6 +983,14 @@
                         "number": "11.c.1", 
                         "parent": "target_11_c", 
                         "slug": "indicator_11_c_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -729,6 +1033,14 @@
                         "number": "12.1.1", 
                         "parent": "target_12_1", 
                         "slug": "indicator_12_1_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -750,6 +1062,14 @@
                         "number": "12.2.1", 
                         "parent": "target_12_2", 
                         "slug": "indicator_12_2_1", 
+                        "tier_proposed": {
+                            "code": "multiple", 
+                            "description": "Tier I (UNEP) / Tier II (OECD)"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_12_2_2": {
@@ -758,6 +1078,14 @@
                         "number": "12.2.2", 
                         "parent": "target_12_2", 
                         "slug": "indicator_12_2_2", 
+                        "tier_proposed": {
+                            "code": "multiple", 
+                            "description": "Tier I (UNEP) / Tier II (OECD)"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -778,6 +1106,14 @@
                         "number": "12.3.1", 
                         "parent": "target_12_3", 
                         "slug": "indicator_12_3_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -799,6 +1135,14 @@
                         "number": "12.4.1", 
                         "parent": "target_12_4", 
                         "slug": "indicator_12_4_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_12_4_2": {
@@ -807,6 +1151,14 @@
                         "number": "12.4.2", 
                         "parent": "target_12_4", 
                         "slug": "indicator_12_4_2", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -827,6 +1179,14 @@
                         "number": "12.5.1", 
                         "parent": "target_12_5", 
                         "slug": "indicator_12_5_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -847,6 +1207,14 @@
                         "number": "12.6.1", 
                         "parent": "target_12_6", 
                         "slug": "indicator_12_6_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "fail", 
+                            "description": "Tier III - no agreed methodology"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -867,6 +1235,14 @@
                         "number": "12.7.1", 
                         "parent": "target_12_7", 
                         "slug": "indicator_12_7_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -887,6 +1263,14 @@
                         "number": "12.8.1", 
                         "parent": "target_12_8", 
                         "slug": "indicator_12_8_1", 
+                        "tier_proposed": {
+                            "code": "multiple", 
+                            "description": "Tier I (UNESCO) / Tier II (UNEP)"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III - workplan on methodology"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -907,6 +1291,14 @@
                         "number": "12.a.1", 
                         "parent": "target_12_a", 
                         "slug": "indicator_12_a_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -927,6 +1319,14 @@
                         "number": "12.b.1", 
                         "parent": "target_12_b", 
                         "slug": "indicator_12_b_1", 
+                        "tier_proposed": {
+                            "code": "multiple", 
+                            "description": "Tier III (UNWTO) / Tier II (UNEP)"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -947,6 +1347,14 @@
                         "number": "12.c.1", 
                         "parent": "target_12_c", 
                         "slug": "indicator_12_c_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -984,6 +1392,14 @@
                         "number": "13.1.1", 
                         "parent": "target_13_1", 
                         "slug": "indicator_13_1_1", 
+                        "tier_proposed": {
+                            "code": "multiple", 
+                            "description": "Tier II (UNISDR) / Tier III (UNEP)"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_13_1_2": {
@@ -992,6 +1408,14 @@
                         "number": "13.1.2", 
                         "parent": "target_13_1", 
                         "slug": "indicator_13_1_2", 
+                        "tier_proposed": {
+                            "code": "multiple", 
+                            "description": "Tier II (UNISDR) / Tier I (UNEP)"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1012,6 +1436,14 @@
                         "number": "13.2.1", 
                         "parent": "target_13_2", 
                         "slug": "indicator_13_2_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1033,6 +1465,14 @@
                         "number": "13.3.1", 
                         "parent": "target_13_3", 
                         "slug": "indicator_13_3_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_13_3_2": {
@@ -1041,6 +1481,14 @@
                         "number": "13.3.2", 
                         "parent": "target_13_3", 
                         "slug": "indicator_13_3_2", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1061,6 +1509,14 @@
                         "number": "13.a.1", 
                         "parent": "target_13_a", 
                         "slug": "indicator_13_a_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1081,6 +1537,14 @@
                         "number": "13.b.1", 
                         "parent": "target_13_b", 
                         "slug": "indicator_13_b_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1122,6 +1586,14 @@
                         "number": "14.1.1", 
                         "parent": "target_14_1", 
                         "slug": "indicator_14_1_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1142,6 +1614,14 @@
                         "number": "14.2.1", 
                         "parent": "target_14_2", 
                         "slug": "indicator_14_2_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1162,6 +1642,14 @@
                         "number": "14.3.1", 
                         "parent": "target_14_3", 
                         "slug": "indicator_14_3_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1182,6 +1670,14 @@
                         "number": "14.4.1", 
                         "parent": "target_14_4", 
                         "slug": "indicator_14_4_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1202,6 +1698,14 @@
                         "number": "14.5.1", 
                         "parent": "target_14_5", 
                         "slug": "indicator_14_5_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1222,6 +1726,14 @@
                         "number": "14.6.1", 
                         "parent": "target_14_6", 
                         "slug": "indicator_14_6_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1242,6 +1754,14 @@
                         "number": "14.7.1", 
                         "parent": "target_14_7", 
                         "slug": "indicator_14_7_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1262,6 +1782,14 @@
                         "number": "14.a.1", 
                         "parent": "target_14_a", 
                         "slug": "indicator_14_a_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1282,6 +1810,14 @@
                         "number": "14.b.1", 
                         "parent": "target_14_b", 
                         "slug": "indicator_14_b_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1302,6 +1838,14 @@
                         "number": "14.c.1", 
                         "parent": "target_14_c", 
                         "slug": "indicator_14_c_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1346,6 +1890,14 @@
                         "number": "15.1.1", 
                         "parent": "target_15_1", 
                         "slug": "indicator_15_1_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_15_1_2": {
@@ -1354,6 +1906,14 @@
                         "number": "15.1.2", 
                         "parent": "target_15_1", 
                         "slug": "indicator_15_1_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1374,6 +1934,14 @@
                         "number": "15.2.1", 
                         "parent": "target_15_2", 
                         "slug": "indicator_15_2_1", 
+                        "tier_proposed": {
+                            "code": "multiple", 
+                            "description": "Tier III (FAO) / Tier I (UNEP)"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1394,6 +1962,14 @@
                         "number": "15.3.1", 
                         "parent": "target_15_3", 
                         "slug": "indicator_15_3_1", 
+                        "tier_proposed": {
+                            "code": "multiple", 
+                            "description": "Tier II (UNCCD) / Tier III (FAO/UNEP)"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1415,6 +1991,14 @@
                         "number": "15.4.1", 
                         "parent": "target_15_4", 
                         "slug": "indicator_15_4_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_15_4_2": {
@@ -1423,6 +2007,14 @@
                         "number": "15.4.2", 
                         "parent": "target_15_4", 
                         "slug": "indicator_15_4_2", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1443,6 +2035,14 @@
                         "number": "15.5.1", 
                         "parent": "target_15_5", 
                         "slug": "indicator_15_5_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1463,6 +2063,14 @@
                         "number": "15.6.1", 
                         "parent": "target_15_6", 
                         "slug": "indicator_15_6_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1483,6 +2091,14 @@
                         "number": "15.7.1", 
                         "parent": "target_15_7", 
                         "slug": "indicator_15_7_1", 
+                        "tier_proposed": {
+                            "code": "fail", 
+                            "description": "Tier I (UNODC)"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1503,6 +2119,14 @@
                         "number": "15.8.1", 
                         "parent": "target_15_8", 
                         "slug": "indicator_15_8_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1523,6 +2147,14 @@
                         "number": "15.9.1", 
                         "parent": "target_15_9", 
                         "slug": "indicator_15_9_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1543,6 +2175,14 @@
                         "number": "15.a.1", 
                         "parent": "target_15_a", 
                         "slug": "indicator_15_a_1", 
+                        "tier_proposed": {
+                            "code": "multiple", 
+                            "description": "Tier I (OECD) / Tier II (UNEP)"
+                        }, 
+                        "tier_revised": {
+                            "code": "multiple", 
+                            "description": "Tier I (ODA) / Tier III (public expenditure)"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1563,6 +2203,14 @@
                         "number": "15.b.1", 
                         "parent": "target_15_b", 
                         "slug": "indicator_15_b_1", 
+                        "tier_proposed": {
+                            "code": "multiple", 
+                            "description": "Tier I (OECD) / Tier II (UNEP)"
+                        }, 
+                        "tier_revised": {
+                            "code": "multiple", 
+                            "description": "Tier I (ODA) / Tier III (public expenditure)"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1583,6 +2231,14 @@
                         "number": "15.c.1", 
                         "parent": "target_15_c", 
                         "slug": "indicator_15_c_1", 
+                        "tier_proposed": {
+                            "code": "multiple", 
+                            "description": "Tier I (UNODC)"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1629,6 +2285,14 @@
                         "number": "16.1.1", 
                         "parent": "target_16_1", 
                         "slug": "indicator_16_1_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_16_1_2": {
@@ -1637,6 +2301,14 @@
                         "number": "16.1.2", 
                         "parent": "target_16_1", 
                         "slug": "indicator_16_1_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "multiple", 
+                            "description": "Tier II / Tier III (pending provision of methodology from OHCHR)"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_16_1_3": {
@@ -1645,6 +2317,14 @@
                         "number": "16.1.3", 
                         "parent": "target_16_1", 
                         "slug": "indicator_16_1_3", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_16_1_4": {
@@ -1653,6 +2333,14 @@
                         "number": "16.1.4", 
                         "parent": "target_16_1", 
                         "slug": "indicator_16_1_4", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1674,6 +2362,14 @@
                         "number": "16.10.1", 
                         "parent": "target_16_10", 
                         "slug": "indicator_16_10_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_16_10_2": {
@@ -1682,6 +2378,14 @@
                         "number": "16.10.2", 
                         "parent": "target_16_10", 
                         "slug": "indicator_16_10_2", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1704,6 +2408,14 @@
                         "number": "16.2.1", 
                         "parent": "target_16_2", 
                         "slug": "indicator_16_2_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_16_2_2": {
@@ -1712,6 +2424,14 @@
                         "number": "16.2.2", 
                         "parent": "target_16_2", 
                         "slug": "indicator_16_2_2", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_16_2_3": {
@@ -1720,6 +2440,14 @@
                         "number": "16.2.3", 
                         "parent": "target_16_2", 
                         "slug": "indicator_16_2_3", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1741,6 +2469,14 @@
                         "number": "16.3.1", 
                         "parent": "target_16_3", 
                         "slug": "indicator_16_3_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_16_3_2": {
@@ -1749,6 +2485,14 @@
                         "number": "16.3.2", 
                         "parent": "target_16_3", 
                         "slug": "indicator_16_3_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1770,6 +2514,14 @@
                         "number": "16.4.1", 
                         "parent": "target_16_4", 
                         "slug": "indicator_16_4_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_16_4_2": {
@@ -1778,6 +2530,14 @@
                         "number": "16.4.2", 
                         "parent": "target_16_4", 
                         "slug": "indicator_16_4_2", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1799,6 +2559,14 @@
                         "number": "16.5.1", 
                         "parent": "target_16_5", 
                         "slug": "indicator_16_5_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_16_5_2": {
@@ -1807,6 +2575,14 @@
                         "number": "16.5.2", 
                         "parent": "target_16_5", 
                         "slug": "indicator_16_5_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1828,6 +2604,14 @@
                         "number": "16.6.1", 
                         "parent": "target_16_6", 
                         "slug": "indicator_16_6_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_16_6_2": {
@@ -1836,6 +2620,14 @@
                         "number": "16.6.2", 
                         "parent": "target_16_6", 
                         "slug": "indicator_16_6_2", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1857,6 +2649,14 @@
                         "number": "16.7.1", 
                         "parent": "target_16_7", 
                         "slug": "indicator_16_7_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_16_7_2": {
@@ -1865,6 +2665,14 @@
                         "number": "16.7.2", 
                         "parent": "target_16_7", 
                         "slug": "indicator_16_7_2", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1885,6 +2693,14 @@
                         "number": "16.8.1", 
                         "parent": "target_16_8", 
                         "slug": "indicator_16_8_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1905,6 +2721,14 @@
                         "number": "16.9.1", 
                         "parent": "target_16_9", 
                         "slug": "indicator_16_9_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1925,6 +2749,14 @@
                         "number": "16.a.1", 
                         "parent": "target_16_a", 
                         "slug": "indicator_16_a_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1945,6 +2777,14 @@
                         "number": "16.b.1", 
                         "parent": "target_16_b", 
                         "slug": "indicator_16_b_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -1996,6 +2836,14 @@
                         "number": "17.1.1", 
                         "parent": "target_17_1", 
                         "slug": "indicator_17_1_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_17_1_2": {
@@ -2004,6 +2852,14 @@
                         "number": "17.1.2", 
                         "parent": "target_17_1", 
                         "slug": "indicator_17_1_2", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2024,6 +2880,14 @@
                         "number": "17.10.1", 
                         "parent": "target_17_10", 
                         "slug": "indicator_17_10_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2044,6 +2908,14 @@
                         "number": "17.11.1", 
                         "parent": "target_17_11", 
                         "slug": "indicator_17_11_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2064,6 +2936,14 @@
                         "number": "17.12.1", 
                         "parent": "target_17_12", 
                         "slug": "indicator_17_12_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2084,6 +2964,14 @@
                         "number": "17.13.1", 
                         "parent": "target_17_13", 
                         "slug": "indicator_17_13_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2104,6 +2992,14 @@
                         "number": "17.14.1", 
                         "parent": "target_17_14", 
                         "slug": "indicator_17_14_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2124,6 +3020,14 @@
                         "number": "17.15.1", 
                         "parent": "target_17_15", 
                         "slug": "indicator_17_15_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2144,6 +3048,14 @@
                         "number": "17.16.1", 
                         "parent": "target_17_16", 
                         "slug": "indicator_17_16_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2164,6 +3076,14 @@
                         "number": "17.17.1", 
                         "parent": "target_17_17", 
                         "slug": "indicator_17_17_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2186,6 +3106,14 @@
                         "number": "17.18.1", 
                         "parent": "target_17_18", 
                         "slug": "indicator_17_18_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_17_18_2": {
@@ -2194,6 +3122,14 @@
                         "number": "17.18.2", 
                         "parent": "target_17_18", 
                         "slug": "indicator_17_18_2", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_17_18_3": {
@@ -2202,6 +3138,14 @@
                         "number": "17.18.3", 
                         "parent": "target_17_18", 
                         "slug": "indicator_17_18_3", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2223,6 +3167,14 @@
                         "number": "17.19.1", 
                         "parent": "target_17_19", 
                         "slug": "indicator_17_19_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_17_19_2": {
@@ -2231,6 +3183,14 @@
                         "number": "17.19.2", 
                         "parent": "target_17_19", 
                         "slug": "indicator_17_19_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2251,6 +3211,14 @@
                         "number": "17.2.1", 
                         "parent": "target_17_2", 
                         "slug": "indicator_17_2_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2272,6 +3240,14 @@
                         "number": "17.3.1", 
                         "parent": "target_17_3", 
                         "slug": "indicator_17_3_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_17_3_2": {
@@ -2280,6 +3256,14 @@
                         "number": "17.3.2", 
                         "parent": "target_17_3", 
                         "slug": "indicator_17_3_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2300,6 +3284,14 @@
                         "number": "17.4.1", 
                         "parent": "target_17_4", 
                         "slug": "indicator_17_4_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2320,6 +3312,14 @@
                         "number": "17.5.1", 
                         "parent": "target_17_5", 
                         "slug": "indicator_17_5_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2341,6 +3341,14 @@
                         "number": "17.6.1", 
                         "parent": "target_17_6", 
                         "slug": "indicator_17_6_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_17_6_2": {
@@ -2349,6 +3357,14 @@
                         "number": "17.6.2", 
                         "parent": "target_17_6", 
                         "slug": "indicator_17_6_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2369,6 +3385,14 @@
                         "number": "17.7.1", 
                         "parent": "target_17_7", 
                         "slug": "indicator_17_7_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2389,6 +3413,14 @@
                         "number": "17.8.1", 
                         "parent": "target_17_8", 
                         "slug": "indicator_17_8_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2409,6 +3441,14 @@
                         "number": "17.9.1", 
                         "parent": "target_17_9", 
                         "slug": "indicator_17_9_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2449,6 +3489,14 @@
                         "number": "2.1.1", 
                         "parent": "target_2_1", 
                         "slug": "indicator_2_1_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_2_1_2": {
@@ -2457,6 +3505,14 @@
                         "number": "2.1.2", 
                         "parent": "target_2_1", 
                         "slug": "indicator_2_1_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2478,6 +3534,14 @@
                         "number": "2.2.1", 
                         "parent": "target_2_2", 
                         "slug": "indicator_2_2_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_2_2_2": {
@@ -2486,6 +3550,14 @@
                         "number": "2.2.2", 
                         "parent": "target_2_2", 
                         "slug": "indicator_2_2_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2507,6 +3579,14 @@
                         "number": "2.3.1", 
                         "parent": "target_2_3", 
                         "slug": "indicator_2_3_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_2_3_2": {
@@ -2515,6 +3595,14 @@
                         "number": "2.3.2", 
                         "parent": "target_2_3", 
                         "slug": "indicator_2_3_2", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2535,6 +3623,14 @@
                         "number": "2.4.1", 
                         "parent": "target_2_4", 
                         "slug": "indicator_2_4_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2556,6 +3652,14 @@
                         "number": "2.5.1", 
                         "parent": "target_2_5", 
                         "slug": "indicator_2_5_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III - methodology/standards"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_2_5_2": {
@@ -2564,6 +3668,14 @@
                         "number": "2.5.2", 
                         "parent": "target_2_5", 
                         "slug": "indicator_2_5_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II - data availability"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2585,6 +3697,14 @@
                         "number": "2.a.1", 
                         "parent": "target_2_a", 
                         "slug": "indicator_2_a_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_2_a_2": {
@@ -2593,6 +3713,14 @@
                         "number": "2.a.2", 
                         "parent": "target_2_a", 
                         "slug": "indicator_2_a_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2614,6 +3742,14 @@
                         "number": "2.b.1", 
                         "parent": "target_2_b", 
                         "slug": "indicator_2_b_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II - data coverage"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_2_b_2": {
@@ -2622,6 +3758,14 @@
                         "number": "2.b.2", 
                         "parent": "target_2_b", 
                         "slug": "indicator_2_b_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2642,6 +3786,14 @@
                         "number": "2.c.1", 
                         "parent": "target_2_c", 
                         "slug": "indicator_2_c_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2687,6 +3839,14 @@
                         "number": "3.1.1", 
                         "parent": "target_3_1", 
                         "slug": "indicator_3_1_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II - data"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_3_1_2": {
@@ -2695,6 +3855,14 @@
                         "number": "3.1.2", 
                         "parent": "target_3_1", 
                         "slug": "indicator_3_1_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2716,6 +3884,14 @@
                         "number": "3.2.1", 
                         "parent": "target_3_2", 
                         "slug": "indicator_3_2_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_3_2_2": {
@@ -2724,6 +3900,14 @@
                         "number": "3.2.2", 
                         "parent": "target_3_2", 
                         "slug": "indicator_3_2_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2748,6 +3932,14 @@
                         "number": "3.3.1", 
                         "parent": "target_3_3", 
                         "slug": "indicator_3_3_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_3_3_2": {
@@ -2756,6 +3948,14 @@
                         "number": "3.3.2", 
                         "parent": "target_3_3", 
                         "slug": "indicator_3_3_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_3_3_3": {
@@ -2764,6 +3964,14 @@
                         "number": "3.3.3", 
                         "parent": "target_3_3", 
                         "slug": "indicator_3_3_3", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_3_3_4": {
@@ -2772,6 +3980,14 @@
                         "number": "3.3.4", 
                         "parent": "target_3_3", 
                         "slug": "indicator_3_3_4", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_3_3_5": {
@@ -2780,6 +3996,14 @@
                         "number": "3.3.5", 
                         "parent": "target_3_3", 
                         "slug": "indicator_3_3_5", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2801,6 +4025,14 @@
                         "number": "3.4.1", 
                         "parent": "target_3_4", 
                         "slug": "indicator_3_4_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_3_4_2": {
@@ -2809,6 +4041,14 @@
                         "number": "3.4.2", 
                         "parent": "target_3_4", 
                         "slug": "indicator_3_4_2", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2830,6 +4070,14 @@
                         "number": "3.5.1", 
                         "parent": "target_3_5", 
                         "slug": "indicator_3_5_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_3_5_2": {
@@ -2838,6 +4086,14 @@
                         "number": "3.5.2", 
                         "parent": "target_3_5", 
                         "slug": "indicator_3_5_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2858,6 +4114,14 @@
                         "number": "3.6.1", 
                         "parent": "target_3_6", 
                         "slug": "indicator_3_6_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2879,6 +4143,14 @@
                         "number": "3.7.1", 
                         "parent": "target_3_7", 
                         "slug": "indicator_3_7_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_3_7_2": {
@@ -2887,6 +4159,14 @@
                         "number": "3.7.2", 
                         "parent": "target_3_7", 
                         "slug": "indicator_3_7_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2908,6 +4188,14 @@
                         "number": "3.8.1", 
                         "parent": "target_3_8", 
                         "slug": "indicator_3_8_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III - methodology/standards"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_3_8_2": {
@@ -2916,6 +4204,14 @@
                         "number": "3.8.2", 
                         "parent": "target_3_8", 
                         "slug": "indicator_3_8_2", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2938,6 +4234,14 @@
                         "number": "3.9.1", 
                         "parent": "target_3_9", 
                         "slug": "indicator_3_9_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_3_9_2": {
@@ -2946,6 +4250,14 @@
                         "number": "3.9.2", 
                         "parent": "target_3_9", 
                         "slug": "indicator_3_9_2", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_3_9_3": {
@@ -2954,6 +4266,14 @@
                         "number": "3.9.3", 
                         "parent": "target_3_9", 
                         "slug": "indicator_3_9_3", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2974,6 +4294,14 @@
                         "number": "3.a.1", 
                         "parent": "target_3_a", 
                         "slug": "indicator_3_a_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -2995,6 +4323,14 @@
                         "number": "3.b.1", 
                         "parent": "target_3_b", 
                         "slug": "indicator_3_b_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_3_b_2": {
@@ -3003,6 +4339,14 @@
                         "number": "3.b.2", 
                         "parent": "target_3_b", 
                         "slug": "indicator_3_b_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3023,6 +4367,14 @@
                         "number": "3.c.1", 
                         "parent": "target_3_c", 
                         "slug": "indicator_3_c_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3043,6 +4395,14 @@
                         "number": "3.d.1", 
                         "parent": "target_3_d", 
                         "slug": "indicator_3_d_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3084,6 +4444,14 @@
                         "number": "4.1.1", 
                         "parent": "target_4_1", 
                         "slug": "indicator_4_1_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III - international standard for all countries"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3105,6 +4473,14 @@
                         "number": "4.2.1", 
                         "parent": "target_4_2", 
                         "slug": "indicator_4_2_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_4_2_2": {
@@ -3113,6 +4489,14 @@
                         "number": "4.2.2", 
                         "parent": "target_4_2", 
                         "slug": "indicator_4_2_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3133,6 +4517,14 @@
                         "number": "4.3.1", 
                         "parent": "target_4_3", 
                         "slug": "indicator_4_3_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3153,6 +4545,14 @@
                         "number": "4.4.1", 
                         "parent": "target_4_4", 
                         "slug": "indicator_4_4_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3173,6 +4573,14 @@
                         "number": "4.5.1", 
                         "parent": "target_4_5", 
                         "slug": "indicator_4_5_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "multiple", 
+                            "description": "Tier I/II/III - depending on indice"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3193,6 +4601,14 @@
                         "number": "4.6.1", 
                         "parent": "target_4_6", 
                         "slug": "indicator_4_6_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3213,6 +4629,14 @@
                         "number": "4.7.1", 
                         "parent": "target_4_7", 
                         "slug": "indicator_4_7_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III - workplan on methodology"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3233,6 +4657,14 @@
                         "number": "4.a.1", 
                         "parent": "target_4_a", 
                         "slug": "indicator_4_a_1", 
+                        "tier_proposed": {
+                            "code": "multiple", 
+                            "description": "Tier I/II"
+                        }, 
+                        "tier_revised": {
+                            "code": "multiple", 
+                            "description": "Tier I/II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3253,6 +4685,14 @@
                         "number": "4.b.1", 
                         "parent": "target_4_b", 
                         "slug": "indicator_4_b_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3273,6 +4713,14 @@
                         "number": "4.c.1", 
                         "parent": "target_4_c", 
                         "slug": "indicator_4_c_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3313,6 +4761,14 @@
                         "number": "5.1.1", 
                         "parent": "target_5_1", 
                         "slug": "indicator_5_1_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3334,6 +4790,14 @@
                         "number": "5.2.1", 
                         "parent": "target_5_2", 
                         "slug": "indicator_5_2_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_5_2_2": {
@@ -3342,6 +4806,14 @@
                         "number": "5.2.2", 
                         "parent": "target_5_2", 
                         "slug": "indicator_5_2_2", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3363,6 +4835,14 @@
                         "number": "5.3.1", 
                         "parent": "target_5_3", 
                         "slug": "indicator_5_3_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_5_3_2": {
@@ -3371,6 +4851,14 @@
                         "number": "5.3.2", 
                         "parent": "target_5_3", 
                         "slug": "indicator_5_3_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3391,6 +4879,14 @@
                         "number": "5.4.1", 
                         "parent": "target_5_4", 
                         "slug": "indicator_5_4_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3412,6 +4908,14 @@
                         "number": "5.5.1", 
                         "parent": "target_5_5", 
                         "slug": "indicator_5_5_1", 
+                        "tier_proposed": {
+                            "code": "multiple", 
+                            "description": "Tier I (IPU/UN Women) / Tier III (World Bank)"
+                        }, 
+                        "tier_revised": {
+                            "code": "multiple", 
+                            "description": "Suggestions from UN Women and IPU: As indicated, this indicator includes Tier 1 and Tier III elements. Therefore, we would suggest modifying the indicator name slightly in the following way -- Proportion of seats held by women in (a) national parliaments and (b) local governments -- and classifying the subcomponents as Tier I and Tier III, respectively."
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_5_5_2": {
@@ -3420,6 +4924,14 @@
                         "number": "5.5.2", 
                         "parent": "target_5_5", 
                         "slug": "indicator_5_5_2", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3441,6 +4953,14 @@
                         "number": "5.6.1", 
                         "parent": "target_5_6", 
                         "slug": "indicator_5_6_1", 
+                        "tier_proposed": {
+                            "code": "multiple", 
+                            "description": "Tier II (UNFPA) / Tier II (WHO) / Tier III (World Bank)"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_5_6_2": {
@@ -3449,6 +4969,14 @@
                         "number": "5.6.2", 
                         "parent": "target_5_6", 
                         "slug": "indicator_5_6_2", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3470,6 +4998,14 @@
                         "number": "5.a.1", 
                         "parent": "target_5_a", 
                         "slug": "indicator_5_a_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_5_a_2": {
@@ -3478,6 +5014,14 @@
                         "number": "5.a.2", 
                         "parent": "target_5_a", 
                         "slug": "indicator_5_a_2", 
+                        "tier_proposed": {
+                            "code": "multiple", 
+                            "description": "Tier II (FAO) / Tier III (World Bank)"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3498,6 +5042,14 @@
                         "number": "5.b.1", 
                         "parent": "target_5_b", 
                         "slug": "indicator_5_b_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3518,6 +5070,14 @@
                         "number": "5.c.1", 
                         "parent": "target_5_c", 
                         "slug": "indicator_5_c_1", 
+                        "tier_proposed": {
+                            "code": "multiple", 
+                            "description": "Tier I (OECD) / Tier III (UN-Women)"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3557,6 +5117,14 @@
                         "number": "6.1.1", 
                         "parent": "target_6_1", 
                         "slug": "indicator_6_1_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3577,6 +5145,14 @@
                         "number": "6.2.1", 
                         "parent": "target_6_2", 
                         "slug": "indicator_6_2_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3598,6 +5174,14 @@
                         "number": "6.3.1", 
                         "parent": "target_6_3", 
                         "slug": "indicator_6_3_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III - workplan on methodology"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_6_3_2": {
@@ -3606,6 +5190,14 @@
                         "number": "6.3.2", 
                         "parent": "target_6_3", 
                         "slug": "indicator_6_3_2", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3627,6 +5219,14 @@
                         "number": "6.4.1", 
                         "parent": "target_6_4", 
                         "slug": "indicator_6_4_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III - workplan on methodology"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_6_4_2": {
@@ -3635,6 +5235,14 @@
                         "number": "6.4.2", 
                         "parent": "target_6_4", 
                         "slug": "indicator_6_4_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3656,6 +5264,14 @@
                         "number": "6.5.1", 
                         "parent": "target_6_5", 
                         "slug": "indicator_6_5_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_6_5_2": {
@@ -3664,6 +5280,14 @@
                         "number": "6.5.2", 
                         "parent": "target_6_5", 
                         "slug": "indicator_6_5_2", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3684,6 +5308,14 @@
                         "number": "6.6.1", 
                         "parent": "target_6_6", 
                         "slug": "indicator_6_6_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3704,6 +5336,14 @@
                         "number": "6.a.1", 
                         "parent": "target_6_a", 
                         "slug": "indicator_6_a_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3724,6 +5364,14 @@
                         "number": "6.b.1", 
                         "parent": "target_6_b", 
                         "slug": "indicator_6_b_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3761,6 +5409,14 @@
                         "number": "7.1.1", 
                         "parent": "target_7_1", 
                         "slug": "indicator_7_1_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_7_1_2": {
@@ -3769,6 +5425,14 @@
                         "number": "7.1.2", 
                         "parent": "target_7_1", 
                         "slug": "indicator_7_1_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3789,6 +5453,14 @@
                         "number": "7.2.1", 
                         "parent": "target_7_2", 
                         "slug": "indicator_7_2_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3809,6 +5481,14 @@
                         "number": "7.3.1", 
                         "parent": "target_7_3", 
                         "slug": "indicator_7_3_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3829,6 +5509,14 @@
                         "number": "7.a.1", 
                         "parent": "target_7_a", 
                         "slug": "indicator_7_a_1", 
+                        "tier_proposed": {
+                            "code": "blank", 
+                            "description": "-"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3849,6 +5537,14 @@
                         "number": "7.b.1", 
                         "parent": "target_7_b", 
                         "slug": "indicator_7_b_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3892,6 +5588,14 @@
                         "number": "8.1.1", 
                         "parent": "target_8_1", 
                         "slug": "indicator_8_1_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3913,6 +5617,14 @@
                         "number": "8.10.1", 
                         "parent": "target_8_10", 
                         "slug": "indicator_8_10_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_8_10_2": {
@@ -3921,6 +5633,14 @@
                         "number": "8.10.2", 
                         "parent": "target_8_10", 
                         "slug": "indicator_8_10_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3941,6 +5661,14 @@
                         "number": "8.2.1", 
                         "parent": "target_8_2", 
                         "slug": "indicator_8_2_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3961,6 +5689,14 @@
                         "number": "8.3.1", 
                         "parent": "target_8_3", 
                         "slug": "indicator_8_3_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -3982,6 +5718,14 @@
                         "number": "8.4.1", 
                         "parent": "target_8_4", 
                         "slug": "indicator_8_4_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_8_4_2": {
@@ -3990,6 +5734,14 @@
                         "number": "8.4.2", 
                         "parent": "target_8_4", 
                         "slug": "indicator_8_4_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -4011,6 +5763,14 @@
                         "number": "8.5.1", 
                         "parent": "target_8_5", 
                         "slug": "indicator_8_5_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_8_5_2": {
@@ -4019,6 +5779,14 @@
                         "number": "8.5.2", 
                         "parent": "target_8_5", 
                         "slug": "indicator_8_5_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -4039,6 +5807,14 @@
                         "number": "8.6.1", 
                         "parent": "target_8_6", 
                         "slug": "indicator_8_6_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -4059,6 +5835,14 @@
                         "number": "8.7.1", 
                         "parent": "target_8_7", 
                         "slug": "indicator_8_7_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -4080,6 +5864,14 @@
                         "number": "8.8.1", 
                         "parent": "target_8_8", 
                         "slug": "indicator_8_8_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_8_8_2": {
@@ -4088,6 +5880,14 @@
                         "number": "8.8.2", 
                         "parent": "target_8_8", 
                         "slug": "indicator_8_8_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -4109,6 +5909,14 @@
                         "number": "8.9.1", 
                         "parent": "target_8_9", 
                         "slug": "indicator_8_9_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_8_9_2": {
@@ -4117,6 +5925,14 @@
                         "number": "8.9.2", 
                         "parent": "target_8_9", 
                         "slug": "indicator_8_9_2", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -4137,6 +5953,14 @@
                         "number": "8.a.1", 
                         "parent": "target_8_a", 
                         "slug": "indicator_8_a_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -4157,6 +5981,14 @@
                         "number": "8.b.1", 
                         "parent": "target_8_b", 
                         "slug": "indicator_8_b_1", 
+                        "tier_proposed": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -4197,6 +6029,14 @@
                         "number": "9.1.1", 
                         "parent": "target_9_1", 
                         "slug": "indicator_9_1_1", 
+                        "tier_proposed": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_9_1_2": {
@@ -4205,6 +6045,14 @@
                         "number": "9.1.2", 
                         "parent": "target_9_1", 
                         "slug": "indicator_9_1_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -4226,6 +6074,14 @@
                         "number": "9.2.1", 
                         "parent": "target_9_2", 
                         "slug": "indicator_9_2_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_9_2_2": {
@@ -4234,6 +6090,14 @@
                         "number": "9.2.2", 
                         "parent": "target_9_2", 
                         "slug": "indicator_9_2_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -4255,6 +6119,14 @@
                         "number": "9.3.1", 
                         "parent": "target_9_3", 
                         "slug": "indicator_9_3_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_9_3_2": {
@@ -4263,6 +6135,14 @@
                         "number": "9.3.2", 
                         "parent": "target_9_3", 
                         "slug": "indicator_9_3_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "3", 
+                            "description": "Tier III"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -4283,6 +6163,14 @@
                         "number": "9.4.1", 
                         "parent": "target_9_4", 
                         "slug": "indicator_9_4_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -4304,6 +6192,14 @@
                         "number": "9.5.1", 
                         "parent": "target_9_5", 
                         "slug": "indicator_9_5_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }, 
                     "indicator_9_5_2": {
@@ -4312,6 +6208,14 @@
                         "number": "9.5.2", 
                         "parent": "target_9_5", 
                         "slug": "indicator_9_5_2", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -4332,6 +6236,14 @@
                         "number": "9.a.1", 
                         "parent": "target_9_a", 
                         "slug": "indicator_9_a_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -4352,6 +6264,14 @@
                         "number": "9.b.1", 
                         "parent": "target_9_b", 
                         "slug": "indicator_9_b_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "2", 
+                            "description": "Tier II"
+                        }, 
                         "type": "indicator"
                     }
                 }, 
@@ -4372,6 +6292,14 @@
                         "number": "9.c.1", 
                         "parent": "target_9_c", 
                         "slug": "indicator_9_c_1", 
+                        "tier_proposed": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
+                        "tier_revised": {
+                            "code": "1", 
+                            "description": "Tier I"
+                        }, 
                         "type": "indicator"
                     }
                 }, 

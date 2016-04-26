@@ -47,16 +47,22 @@ with io.open('../SDG-targets.csv', 'r', encoding='cp1252') as csvfile:          
 with io.open('../SDG-indicators_proposed-2016-03-24.csv', 'r', encoding='cp1252') as csvfile:          # encoding:  use cp1252 if the data comes from Excel
 	reader = csv.reader(csvfile)
 	headers = reader.next() # Skip header row
-	num  = headers.index('Indicator')
-	desc = headers.index('Description')
 	for row in reader:
 		this_entry = {
 			"type" : "indicator",
-			"number" : row[headers.index('Indicator')],
-			"description" : row[headers.index('Description')]
+			"number" : row[headers.index('indicator')],
+			"description" : row[headers.index('description')],
+			"tier_proposed" : {
+				"description" : row[headers.index('tier_proposed')],
+				"code" :        row[headers.index('tier_proposed_coded')]
+			},
+			"tier_revised" : {
+				"description" : row[headers.index('tier_revised')],
+				"code" :        row[headers.index('tier_revised_coded')]
+			}
 		}
 		this_entry["slug"]  = "indicator_"+this_entry["number"].replace(".","_").replace(' ','')
-		this_entry["parent"] = "target_"+row[headers.index('Target')].replace(".","_").replace(' ','')
+		this_entry["parent"] = "target_"+row[headers.index('target')].replace(".","_").replace(' ','')
 		this_entry["children"] = []
 		SDG[ this_entry["slug"] ] = this_entry
 
