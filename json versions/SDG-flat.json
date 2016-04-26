@@ -323,7 +323,7 @@
     }, 
     "indicator_10_1_1": {
         "children": [], 
-        "description": " Growth rates of household  expenditure or income per capita among  the bottom 40 per cent of the population  and the total population", 
+        "description": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population", 
         "number": "10.1.1", 
         "parent": "target_10_1", 
         "slug": "indicator_10_1_1", 
@@ -331,7 +331,7 @@
     }, 
     "indicator_10_2_1": {
         "children": [], 
-        "description": " Proportion of people living below  50 per cent of median income, by age, sex  and persons with disabilities", 
+        "description": "Proportion of people living below 50 per cent of median income, by age, sex and persons with disabilities", 
         "number": "10.2.1", 
         "parent": "target_10_2", 
         "slug": "indicator_10_2_1", 
@@ -339,7 +339,7 @@
     }, 
     "indicator_10_3_1": {
         "children": [], 
-        "description": " Proportion of the population  reporting having personally felt  discriminated against or harassed within  the previous 12 months on the basis of a  ground of discrimination prohibited under  international human rights law", 
+        "description": "Proportion of the population reporting having personally felt discriminated against or harassed within the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law", 
         "number": "10.3.1", 
         "parent": "target_10_3", 
         "slug": "indicator_10_3_1", 
@@ -347,7 +347,7 @@
     }, 
     "indicator_10_4_1": {
         "children": [], 
-        "description": " Labour share of GDP, comprising  wages and social protection transfers", 
+        "description": "Labour share of GDP, comprising wages and social protection transfers", 
         "number": "10.4.1", 
         "parent": "target_10_4", 
         "slug": "indicator_10_4_1", 
@@ -363,15 +363,23 @@
     }, 
     "indicator_10_6_1": {
         "children": [], 
-        "description": " Proportion of members and voting  rights of developing countries in  international organizations", 
+        "description": "Proportion of members and voting rights of developing countries in international organizations", 
         "number": "10.6.1", 
         "parent": "target_10_6", 
         "slug": "indicator_10_6_1", 
         "type": "indicator"
     }, 
+    "indicator_10_7_1": {
+        "children": [], 
+        "description": "Recruitment cost borne by employee as a proportion of yearly income earned in country of destination", 
+        "number": "10.7.1", 
+        "parent": "target_10_7", 
+        "slug": "indicator_10_7_1", 
+        "type": "indicator"
+    }, 
     "indicator_10_7_2": {
         "children": [], 
-        "description": "Number of countries that have  implemented well-managed migration  policies", 
+        "description": "Number of countries that have implemented well-managed migration policies", 
         "number": "10.7.2", 
         "parent": "target_10_7", 
         "slug": "indicator_10_7_2", 
@@ -379,7 +387,7 @@
     }, 
     "indicator_10_a_1": {
         "children": [], 
-        "description": "Proportion of tariff lines applied to  imports from least developed countries  and developing countries with zero-tariff", 
+        "description": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff", 
         "number": "10.a.1", 
         "parent": "target_10_a", 
         "slug": "indicator_10_a_1", 
@@ -387,23 +395,39 @@
     }, 
     "indicator_10_b_1": {
         "children": [], 
-        "description": " Total resource flows for  development, by recipient and donor  countries and type of flow (e.g. official  development assistance, foreign direct  investment and other flows)", 
+        "description": "Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)", 
         "number": "10.b.1", 
         "parent": "target_10_b", 
         "slug": "indicator_10_b_1", 
         "type": "indicator"
     }, 
+    "indicator_10_c_1": {
+        "children": [], 
+        "description": "Remittance costs as a proportion of the amount remitted", 
+        "number": "10.c.1", 
+        "parent": "target_10_c", 
+        "slug": "indicator_10_c_1", 
+        "type": "indicator"
+    }, 
     "indicator_11_1_1": {
         "children": [], 
-        "description": " Proportion of urban population  living in slums, informal settlements or  inadequate housing", 
+        "description": "Proportion of urban population living in slums, informal settlements or inadequate housing", 
         "number": "11.1.1", 
         "parent": "target_11_1", 
         "slug": "indicator_11_1_1", 
         "type": "indicator"
     }, 
+    "indicator_11_2_1": {
+        "children": [], 
+        "description": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities", 
+        "number": "11.2.1", 
+        "parent": "target_11_2", 
+        "slug": "indicator_11_2_1", 
+        "type": "indicator"
+    }, 
     "indicator_11_3_1": {
         "children": [], 
-        "description": " Ratio of land consumption rate to  population growth rate", 
+        "description": "Ratio of land consumption rate to population growth rate", 
         "number": "11.3.1", 
         "parent": "target_11_3", 
         "slug": "indicator_11_3_1", 
@@ -411,7 +435,7 @@
     }, 
     "indicator_11_3_2": {
         "children": [], 
-        "description": "Proportion of cities with a direct  participation structure of civil society in  urban planning and management that  operate regularly and democratically", 
+        "description": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically", 
         "number": "11.3.2", 
         "parent": "target_11_3", 
         "slug": "indicator_11_3_2", 
@@ -425,9 +449,17 @@
         "slug": "indicator_11_4_1", 
         "type": "indicator"
     }, 
+    "indicator_11_5_1": {
+        "children": [], 
+        "description": "Number of deaths, missing persons and persons affected by disaster per 100,000 people", 
+        "number": "11.5.1", 
+        "parent": "target_11_5", 
+        "slug": "indicator_11_5_1", 
+        "type": "indicator"
+    }, 
     "indicator_11_5_2": {
         "children": [], 
-        "description": " Direct disaster economic loss in  relation to global GDP, including disaster  damage to critical infrastructure and  a disruption of basic services", 
+        "description": "Direct disaster economic loss in relation to global GDP, including disaster damage to critical infrastructure and a disruption of basic services", 
         "number": "11.5.2", 
         "parent": "target_11_5", 
         "slug": "indicator_11_5_2", 
@@ -435,15 +467,23 @@
     }, 
     "indicator_11_6_1": {
         "children": [], 
-        "description": " Proportion of urban solid waste  regularly collected and with adequate final  discharge out of total urban solid waste  generated, by cities", 
+        "description": "Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities", 
         "number": "11.6.1", 
         "parent": "target_11_6", 
         "slug": "indicator_11_6_1", 
         "type": "indicator"
     }, 
+    "indicator_11_6_2": {
+        "children": [], 
+        "description": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)", 
+        "number": "11.6.2", 
+        "parent": "target_11_6", 
+        "slug": "indicator_11_6_2", 
+        "type": "indicator"
+    }, 
     "indicator_11_7_1": {
         "children": [], 
-        "description": " Average share of the built-up area  of cities that is open space for public use  for all, by sex, age and persons with  disabilities", 
+        "description": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities", 
         "number": "11.7.1", 
         "parent": "target_11_7", 
         "slug": "indicator_11_7_1", 
@@ -451,7 +491,7 @@
     }, 
     "indicator_11_7_2": {
         "children": [], 
-        "description": "Proportion of persons victim of  physical or sexual harassment, by sex,  age, disability status and place of  occurrence, in the previous 12 months", 
+        "description": "Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months", 
         "number": "11.7.2", 
         "parent": "target_11_7", 
         "slug": "indicator_11_7_2", 
@@ -465,9 +505,49 @@
         "slug": "indicator_11_a_1", 
         "type": "indicator"
     }, 
+    "indicator_11_b_1": {
+        "children": [], 
+        "description": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030", 
+        "number": "11.b.1", 
+        "parent": "target_11_b", 
+        "slug": "indicator_11_b_1", 
+        "type": "indicator"
+    }, 
+    "indicator_11_b_2": {
+        "children": [], 
+        "description": "Number of countries with national and local disaster risk reduction strategies", 
+        "number": "11.b.2", 
+        "parent": "target_11_b", 
+        "slug": "indicator_11_b_2", 
+        "type": "indicator"
+    }, 
+    "indicator_11_c_1": {
+        "children": [], 
+        "description": "Proportion of financial support to the least developed countries that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local material", 
+        "number": "11.c.1", 
+        "parent": "target_11_c", 
+        "slug": "indicator_11_c_1", 
+        "type": "indicator"
+    }, 
+    "indicator_12_1_1": {
+        "children": [], 
+        "description": "Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies", 
+        "number": "12.1.1", 
+        "parent": "target_12_1", 
+        "slug": "indicator_12_1_1", 
+        "type": "indicator"
+    }, 
+    "indicator_12_2_1": {
+        "children": [], 
+        "description": "Material footprint, material footprint per capita, and material footprint per GDP", 
+        "number": "12.2.1", 
+        "parent": "target_12_2", 
+        "slug": "indicator_12_2_1", 
+        "type": "indicator"
+    }, 
     "indicator_12_2_2": {
         "children": [], 
-        "description": " Domestic material consumption,  domestic material consumption per capita,  and domestic material consumption per  GDP", 
+        "description": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP", 
         "number": "12.2.2", 
         "parent": "target_12_2", 
         "slug": "indicator_12_2_2", 
@@ -475,7 +555,7 @@
     }, 
     "indicator_12_3_1": {
         "children": [], 
-        "description": " Global food loss index", 
+        "description": "Global food loss index", 
         "number": "12.3.1", 
         "parent": "target_12_3", 
         "slug": "indicator_12_3_1", 
@@ -483,7 +563,7 @@
     }, 
     "indicator_12_4_1": {
         "children": [], 
-        "description": "Number of parties to international  multilateral environmental agreements on  hazardous waste, and other chemicals that  meet their commitments and obligations in transmitting information as required by  each relevant agreement", 
+        "description": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement", 
         "number": "12.4.1", 
         "parent": "target_12_4", 
         "slug": "indicator_12_4_1", 
@@ -491,15 +571,23 @@
     }, 
     "indicator_12_4_2": {
         "children": [], 
-        "description": "Hazardous waste generated per  capita and proportion of hazardous waste  treated, by type of treatment", 
+        "description": "Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment", 
         "number": "12.4.2", 
         "parent": "target_12_4", 
         "slug": "indicator_12_4_2", 
         "type": "indicator"
     }, 
+    "indicator_12_5_1": {
+        "children": [], 
+        "description": "National recycling rate, tons of material recycled", 
+        "number": "12.5.1", 
+        "parent": "target_12_5", 
+        "slug": "indicator_12_5_1", 
+        "type": "indicator"
+    }, 
     "indicator_12_6_1": {
         "children": [], 
-        "description": "Number of companies publishing  sustainability reports", 
+        "description": "Number of companies publishing sustainability reports", 
         "number": "12.6.1", 
         "parent": "target_12_6", 
         "slug": "indicator_12_6_1", 
@@ -507,7 +595,7 @@
     }, 
     "indicator_12_7_1": {
         "children": [], 
-        "description": " Number of countries  implementing sustainable public  procurement policies and action plans", 
+        "description": "Number of countries implementing sustainable public procurement policies and action plans", 
         "number": "12.7.1", 
         "parent": "target_12_7", 
         "slug": "indicator_12_7_1", 
@@ -515,7 +603,7 @@
     }, 
     "indicator_12_8_1": {
         "children": [], 
-        "description": " Extent to which (i) global  citizenship education and (ii) education  for sustainable development (including  climate change education) are  mainstreamed in (a) national education  policies; (b) curricula; (c) teacher  education; and (d) student assessment", 
+        "description": "Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment", 
         "number": "12.8.1", 
         "parent": "target_12_8", 
         "slug": "indicator_12_8_1", 
@@ -523,15 +611,23 @@
     }, 
     "indicator_12_a_1": {
         "children": [], 
-        "description": " Amount of support to developing  countries on research and development for  sustainable consumption and production  and environmentally sound technologies", 
+        "description": "Amount of support to developing countries on research and development for sustainable consumption and production and environmentally sound technologies", 
         "number": "12.a.1", 
         "parent": "target_12_a", 
         "slug": "indicator_12_a_1", 
         "type": "indicator"
     }, 
+    "indicator_12_b_1": {
+        "children": [], 
+        "description": "Number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools", 
+        "number": "12.b.1", 
+        "parent": "target_12_b", 
+        "slug": "indicator_12_b_1", 
+        "type": "indicator"
+    }, 
     "indicator_12_c_1": {
         "children": [], 
-        "description": " Amount of fossil-fuel subsidies  per unit of GDP (production and  consumption) and as a proportion of total  national expenditure on fossil fuels", 
+        "description": "Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels", 
         "number": "12.c.1", 
         "parent": "target_12_c", 
         "slug": "indicator_12_c_1", 
@@ -539,15 +635,23 @@
     }, 
     "indicator_13_1_1": {
         "children": [], 
-        "description": " Number of countries with national  and local disaster risk reduction  a strategies", 
+        "description": "Number of countries with national and local disaster risk reduction a strategies", 
         "number": "13.1.1", 
         "parent": "target_13_1", 
         "slug": "indicator_13_1_1", 
         "type": "indicator"
     }, 
+    "indicator_13_1_2": {
+        "children": [], 
+        "description": "Number of deaths, missing persons and persons affected by disaster per 100,000 people", 
+        "number": "13.1.2", 
+        "parent": "target_13_1", 
+        "slug": "indicator_13_1_2", 
+        "type": "indicator"
+    }, 
     "indicator_13_2_1": {
         "children": [], 
-        "description": " Number of countries that have  communicated the establishment or  operationalization of an integrated  policy/strategy/plan which increases their  ability to adapt to the adverse impacts of  climate change, and foster climate  resilience and low greenhouse gas  emissions development in a manner that  does not threaten food production  (including a national adaptation plan,  nationally determined contribution,  national communication, biennial update  report or other)", 
+        "description": "Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)", 
         "number": "13.2.1", 
         "parent": "target_13_2", 
         "slug": "indicator_13_2_1", 
@@ -555,7 +659,7 @@
     }, 
     "indicator_13_3_1": {
         "children": [], 
-        "description": " Number of countries that have  integrated mitigation, adaptation, impact  reduction and early warning into primary,  secondary and tertiary curricula", 
+        "description": "Number of countries that have integrated mitigation, adaptation, impact reduction and early warning into primary, secondary and tertiary curricula", 
         "number": "13.3.1", 
         "parent": "target_13_3", 
         "slug": "indicator_13_3_1", 
@@ -563,7 +667,7 @@
     }, 
     "indicator_13_3_2": {
         "children": [], 
-        "description": " Number of countries that have  communicated the strengthening of  institutional, systemic and individual  capacity-building to implement  adaptation, mitigation and technology  transfer, and development actions", 
+        "description": "Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions", 
         "number": "13.3.2", 
         "parent": "target_13_3", 
         "slug": "indicator_13_3_2", 
@@ -571,7 +675,7 @@
     }, 
     "indicator_13_a_1": {
         "children": [], 
-        "description": " Mobilized amount of United  States dollars per year starting in 2020  accountable towards the $100 billion  commitment", 
+        "description": "Mobilized amount of United States dollars per year starting in 2020 accountable towards the $100 billion commitment", 
         "number": "13.a.1", 
         "parent": "target_13_a", 
         "slug": "indicator_13_a_1", 
@@ -579,7 +683,7 @@
     }, 
     "indicator_13_b_1": {
         "children": [], 
-        "description": " Number of least developed  countries and small island developing  States that are receiving specialized  support, and amount of support, including  finance, technology and capacity-building,  for mechanisms for raising capacities for  effective climate change-related planning  and management, including focusing on  women, youth and local and marginalized  communities", 
+        "description": "Number of least developed countries and small island developing States that are receiving specialized support, and amount of support, including finance, technology and capacity-building, for mechanisms for raising capacities for effective climate change-related planning and management, including focusing on women, youth and local and marginalized communities", 
         "number": "13.b.1", 
         "parent": "target_13_b", 
         "slug": "indicator_13_b_1", 
@@ -587,7 +691,7 @@
     }, 
     "indicator_14_1_1": {
         "children": [], 
-        "description": " Index of coastal eutrophication  and floating plastic debris density", 
+        "description": "Index of coastal eutrophication and floating plastic debris density", 
         "number": "14.1.1", 
         "parent": "target_14_1", 
         "slug": "indicator_14_1_1", 
@@ -595,15 +699,23 @@
     }, 
     "indicator_14_2_1": {
         "children": [], 
-        "description": " Proportion of national exclusive  economic zones managed using ecosystem based approaches", 
+        "description": "Proportion of national exclusive economic zones managed using ecosystem based approaches", 
         "number": "14.2.1", 
         "parent": "target_14_2", 
         "slug": "indicator_14_2_1", 
         "type": "indicator"
     }, 
+    "indicator_14_3_1": {
+        "children": [], 
+        "description": "Average marine acidity (pH) measured at agreed suite of representative sampling stations", 
+        "number": "14.3.1", 
+        "parent": "target_14_3", 
+        "slug": "indicator_14_3_1", 
+        "type": "indicator"
+    }, 
     "indicator_14_4_1": {
         "children": [], 
-        "description": " Proportion of fish stocks within  biologically sustainable levels", 
+        "description": "Proportion of fish stocks within biologically sustainable levels", 
         "number": "14.4.1", 
         "parent": "target_14_4", 
         "slug": "indicator_14_4_1", 
@@ -611,7 +723,7 @@
     }, 
     "indicator_14_5_1": {
         "children": [], 
-        "description": " Coverage of protected areas in  relation to marine areas", 
+        "description": "Coverage of protected areas in relation to marine areas", 
         "number": "14.5.1", 
         "parent": "target_14_5", 
         "slug": "indicator_14_5_1", 
@@ -619,7 +731,7 @@
     }, 
     "indicator_14_6_1": {
         "children": [], 
-        "description": " Progress by countries in the degree of implementation of international  instruments aiming to combat illegal,  unreported and unregulated fishing", 
+        "description": "Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing", 
         "number": "14.6.1", 
         "parent": "target_14_6", 
         "slug": "indicator_14_6_1", 
@@ -627,15 +739,23 @@
     }, 
     "indicator_14_7_1": {
         "children": [], 
-        "description": " Sustainable fisheries as a  percentage of GDP in small island  developing States, least developed  countries and all countries", 
+        "description": "Sustainable fisheries as a percentage of GDP in small island developing States, least developed countries and all countries", 
         "number": "14.7.1", 
         "parent": "target_14_7", 
         "slug": "indicator_14_7_1", 
         "type": "indicator"
     }, 
+    "indicator_14_a_1": {
+        "children": [], 
+        "description": "Proportion of total research budget allocated to research in the field of marine technology", 
+        "number": "14.a.1", 
+        "parent": "target_14_a", 
+        "slug": "indicator_14_a_1", 
+        "type": "indicator"
+    }, 
     "indicator_14_b_1": {
         "children": [], 
-        "description": "Progress by countries in the degree  of application of a  legal/regulatory/policy/institutional  framework which recognizes and protects  access rights for small-scale fisheries", 
+        "description": "Progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries", 
         "number": "14.b.1", 
         "parent": "target_14_b", 
         "slug": "indicator_14_b_1", 
@@ -643,7 +763,7 @@
     }, 
     "indicator_14_c_1": {
         "children": [], 
-        "description": "Number of countries making  progress in ratifying, accepting and  implementing through legal, policy and  institutional frameworks, ocean-related  instruments that implement international  law, as reflected in the United Nation  Convention on the Law of the Sea, for the  conservation and sustainable use of the  oceans and their resources", 
+        "description": "Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nation Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources", 
         "number": "14.c.1", 
         "parent": "target_14_c", 
         "slug": "indicator_14_c_1", 
@@ -659,7 +779,7 @@
     }, 
     "indicator_15_1_2": {
         "children": [], 
-        "description": " Proportion of important sites for  terrestrial and freshwater biodiversity that  are covered by protected areas, by  ecosystem type", 
+        "description": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type", 
         "number": "15.1.2", 
         "parent": "target_15_1", 
         "slug": "indicator_15_1_2", 
@@ -667,15 +787,23 @@
     }, 
     "indicator_15_2_1": {
         "children": [], 
-        "description": " Progress towards sustainable  forest management", 
+        "description": "Progress towards sustainable forest management", 
         "number": "15.2.1", 
         "parent": "target_15_2", 
         "slug": "indicator_15_2_1", 
         "type": "indicator"
     }, 
+    "indicator_15_3_1": {
+        "children": [], 
+        "description": "Proportion of land that is degraded over total land area", 
+        "number": "15.3.1", 
+        "parent": "target_15_3", 
+        "slug": "indicator_15_3_1", 
+        "type": "indicator"
+    }, 
     "indicator_15_4_1": {
         "children": [], 
-        "description": " Coverage by protected areas of  important sites for mountain biodiversity", 
+        "description": "Coverage by protected areas of important sites for mountain biodiversity", 
         "number": "15.4.1", 
         "parent": "target_15_4", 
         "slug": "indicator_15_4_1", 
@@ -683,7 +811,7 @@
     }, 
     "indicator_15_4_2": {
         "children": [], 
-        "description": " Mountain Green Cover Index", 
+        "description": "Mountain Green Cover Index", 
         "number": "15.4.2", 
         "parent": "target_15_4", 
         "slug": "indicator_15_4_2", 
@@ -707,7 +835,7 @@
     }, 
     "indicator_15_7_1": {
         "children": [], 
-        "description": " Proportion of traded wildlife that  was poached or illicitly trafficked", 
+        "description": "Proportion of traded wildlife that was poached or illicitly trafficked", 
         "number": "15.7.1", 
         "parent": "target_15_7", 
         "slug": "indicator_15_7_1", 
@@ -715,7 +843,7 @@
     }, 
     "indicator_15_8_1": {
         "children": [], 
-        "description": "Proportion of countries adopting  relevant national legislation and  adequately resourcing the prevention or  control of invasive alien species", 
+        "description": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species", 
         "number": "15.8.1", 
         "parent": "target_15_8", 
         "slug": "indicator_15_8_1", 
@@ -723,7 +851,7 @@
     }, 
     "indicator_15_9_1": {
         "children": [], 
-        "description": " Progress towards national targets  established in accordance with Aichi  Biodiversity Target 2 of the Strategic Plan  for Biodiversity 2011-2020", 
+        "description": "Progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020", 
         "number": "15.9.1", 
         "parent": "target_15_9", 
         "slug": "indicator_15_9_1", 
@@ -731,15 +859,23 @@
     }, 
     "indicator_15_a_1": {
         "children": [], 
-        "description": " Official development assistance  and public expenditure on conservation  and sustainable use of biodiversity and  ecosystems", 
+        "description": "Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems", 
         "number": "15.a.1", 
         "parent": "target_15_a", 
         "slug": "indicator_15_a_1", 
         "type": "indicator"
     }, 
+    "indicator_15_b_1": {
+        "children": [], 
+        "description": "Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems", 
+        "number": "15.b.1", 
+        "parent": "target_15_b", 
+        "slug": "indicator_15_b_1", 
+        "type": "indicator"
+    }, 
     "indicator_15_c_1": {
         "children": [], 
-        "description": " Proportion of traded wildlife that  was poached or illicitly trafficked", 
+        "description": "Proportion of traded wildlife that was poached or illicitly trafficked", 
         "number": "15.c.1", 
         "parent": "target_15_c", 
         "slug": "indicator_15_c_1", 
@@ -747,7 +883,7 @@
     }, 
     "indicator_16_10_1": {
         "children": [], 
-        "description": "Number of verified cases of  killing, kidnapping, enforced  disappearance, arbitrary detention and  torture of journalists, associated media  personnel, trade unionists and human  rights advocates in the previous 12  months", 
+        "description": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months", 
         "number": "16.10.1", 
         "parent": "target_16_10", 
         "slug": "indicator_16_10_1", 
@@ -755,7 +891,7 @@
     }, 
     "indicator_16_10_2": {
         "children": [], 
-        "description": "Number of countries that adopt  and implement constitutional, statutory  and/or policy guarantees for public access  to information", 
+        "description": "Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information", 
         "number": "16.10.2", 
         "parent": "target_16_10", 
         "slug": "indicator_16_10_2", 
@@ -763,7 +899,7 @@
     }, 
     "indicator_16_1_1": {
         "children": [], 
-        "description": " Number of victims of intentional  homicide per 100,000 population, by sex  and age", 
+        "description": "Number of victims of intentional homicide per 100,000 population, by sex and age", 
         "number": "16.1.1", 
         "parent": "target_16_1", 
         "slug": "indicator_16_1_1", 
@@ -771,7 +907,7 @@
     }, 
     "indicator_16_1_2": {
         "children": [], 
-        "description": " Conflict-related deaths per  100,000 population, by sex, age and cause", 
+        "description": "Conflict-related deaths per 100,000 population, by sex, age and cause", 
         "number": "16.1.2", 
         "parent": "target_16_1", 
         "slug": "indicator_16_1_2", 
@@ -779,7 +915,7 @@
     }, 
     "indicator_16_1_3": {
         "children": [], 
-        "description": " Proportion of population subjected to physical, psychological or sexual  violence in the previous 12 months", 
+        "description": "Proportion of population subjected to physical, psychological or sexual violence in the previous 12 months", 
         "number": "16.1.3", 
         "parent": "target_16_1", 
         "slug": "indicator_16_1_3", 
@@ -787,15 +923,23 @@
     }, 
     "indicator_16_1_4": {
         "children": [], 
-        "description": " Proportion of population that feel  safe walking alone around the area they  live", 
+        "description": "Proportion of population that feel safe walking alone around the area they live", 
         "number": "16.1.4", 
         "parent": "target_16_1", 
         "slug": "indicator_16_1_4", 
         "type": "indicator"
     }, 
+    "indicator_16_2_1": {
+        "children": [], 
+        "description": "Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month", 
+        "number": "16.2.1", 
+        "parent": "target_16_2", 
+        "slug": "indicator_16_2_1", 
+        "type": "indicator"
+    }, 
     "indicator_16_2_2": {
         "children": [], 
-        "description": " Number of victims of human  trafficking per 100,000 population, by  sex, age and form of exploitation", 
+        "description": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation", 
         "number": "16.2.2", 
         "parent": "target_16_2", 
         "slug": "indicator_16_2_2", 
@@ -803,7 +947,7 @@
     }, 
     "indicator_16_2_3": {
         "children": [], 
-        "description": "Proportion of young women and  men aged 18_29 years who experienced  sexual violence by age 18", 
+        "description": "Proportion of young women and men aged 18_29 years who experienced sexual violence by age 18", 
         "number": "16.2.3", 
         "parent": "target_16_2", 
         "slug": "indicator_16_2_3", 
@@ -811,7 +955,7 @@
     }, 
     "indicator_16_3_1": {
         "children": [], 
-        "description": " Proportion of victims of violence  in the previous 12 months who reported  their victimization to competent  authorities or other officially recognized  conflict resolution mechanisms", 
+        "description": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms", 
         "number": "16.3.1", 
         "parent": "target_16_3", 
         "slug": "indicator_16_3_1", 
@@ -819,15 +963,23 @@
     }, 
     "indicator_16_3_2": {
         "children": [], 
-        "description": " Unsentenced detainees as a  proportion of overall prison population", 
+        "description": "Unsentenced detainees as a proportion of overall prison population", 
         "number": "16.3.2", 
         "parent": "target_16_3", 
         "slug": "indicator_16_3_2", 
         "type": "indicator"
     }, 
+    "indicator_16_4_1": {
+        "children": [], 
+        "description": "Total value of inward and outward illicit financial flows (in current United States dollars)", 
+        "number": "16.4.1", 
+        "parent": "target_16_4", 
+        "slug": "indicator_16_4_1", 
+        "type": "indicator"
+    }, 
     "indicator_16_4_2": {
         "children": [], 
-        "description": "Proportion of seized small arms  and light weapons that are recorded and  traced, in accordance with international  standards and legal instruments", 
+        "description": "Proportion of seized small arms and light weapons that are recorded and traced, in accordance with international standards and legal instruments", 
         "number": "16.4.2", 
         "parent": "target_16_4", 
         "slug": "indicator_16_4_2", 
@@ -835,7 +987,7 @@
     }, 
     "indicator_16_5_1": {
         "children": [], 
-        "description": "Proportion of persons who had at  least one contact with a public official and  who paid a bribe to a public official, or  were asked for a bribe by those public  officials, during the previous 12 months", 
+        "description": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months", 
         "number": "16.5.1", 
         "parent": "target_16_5", 
         "slug": "indicator_16_5_1", 
@@ -843,7 +995,7 @@
     }, 
     "indicator_16_5_2": {
         "children": [], 
-        "description": "Proportion of businesses that had  at least one contact with a public official  and that paid a bribe to a public official,  or were asked for a bribe by those public  officials during the previous 12 months", 
+        "description": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months", 
         "number": "16.5.2", 
         "parent": "target_16_5", 
         "slug": "indicator_16_5_2", 
@@ -851,15 +1003,23 @@
     }, 
     "indicator_16_6_1": {
         "children": [], 
-        "description": "Primary government expenditures  as a proportion of original approved  budget, by sector (or by budget codes or  similar)", 
+        "description": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)", 
         "number": "16.6.1", 
         "parent": "target_16_6", 
         "slug": "indicator_16_6_1", 
         "type": "indicator"
     }, 
+    "indicator_16_6_2": {
+        "children": [], 
+        "description": "Proportion of the population satisfied with their last experience of public services", 
+        "number": "16.6.2", 
+        "parent": "target_16_6", 
+        "slug": "indicator_16_6_2", 
+        "type": "indicator"
+    }, 
     "indicator_16_7_1": {
         "children": [], 
-        "description": "Proportions of positions (by sex,  age, persons with disabilities and  population groups) in public institutions  (national and local legislatures, public  service, and judiciary) compared to  national distributions", 
+        "description": "Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions", 
         "number": "16.7.1", 
         "parent": "target_16_7", 
         "slug": "indicator_16_7_1", 
@@ -867,7 +1027,7 @@
     }, 
     "indicator_16_7_2": {
         "children": [], 
-        "description": "Proportion of population who  believe decision-making is inclusive and  responsive, by sex, age, disability and  population group", 
+        "description": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group", 
         "number": "16.7.2", 
         "parent": "target_16_7", 
         "slug": "indicator_16_7_2", 
@@ -875,7 +1035,7 @@
     }, 
     "indicator_16_8_1": {
         "children": [], 
-        "description": "Proportion of members and voting  rights of developing countries in  international organizations", 
+        "description": "Proportion of members and voting rights of developing countries in international organizations", 
         "number": "16.8.1", 
         "parent": "target_16_8", 
         "slug": "indicator_16_8_1", 
@@ -883,7 +1043,7 @@
     }, 
     "indicator_16_9_1": {
         "children": [], 
-        "description": "Proportion of children under 5  years of age whose births have been  registered with a civil authority, by age", 
+        "description": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age", 
         "number": "16.9.1", 
         "parent": "target_16_9", 
         "slug": "indicator_16_9_1", 
@@ -891,7 +1051,7 @@
     }, 
     "indicator_16_a_1": {
         "children": [], 
-        "description": "Existence of independent national  human rights institutions in compliance  with the Paris Principles", 
+        "description": "Existence of independent national human rights institutions in compliance with the Paris Principles", 
         "number": "16.a.1", 
         "parent": "target_16_a", 
         "slug": "indicator_16_a_1", 
@@ -899,7 +1059,7 @@
     }, 
     "indicator_16_b_1": {
         "children": [], 
-        "description": "Proportion of population reporting  having personally felt discriminated  against or harassed in the previous 12  months on the basis of a ground of  discrimination prohibited under  international human rights law", 
+        "description": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law", 
         "number": "16.b.1", 
         "parent": "target_16_b", 
         "slug": "indicator_16_b_1", 
@@ -915,7 +1075,7 @@
     }, 
     "indicator_17_11_1": {
         "children": [], 
-        "description": "Developing countries' and least  developed countries' share of global  exports", 
+        "description": "Developing countries' and least developed countries' share of global exports", 
         "number": "17.11.1", 
         "parent": "target_17_11", 
         "slug": "indicator_17_11_1", 
@@ -939,7 +1099,7 @@
     }, 
     "indicator_17_14_1": {
         "children": [], 
-        "description": "Number of countries with  mechanisms in place to enhance policy  coherence of sustainable development", 
+        "description": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development", 
         "number": "17.14.1", 
         "parent": "target_17_14", 
         "slug": "indicator_17_14_1", 
@@ -947,7 +1107,7 @@
     }, 
     "indicator_17_15_1": {
         "children": [], 
-        "description": "Extent of use of country-owned  results frameworks and planning tools by  providers of development cooperation", 
+        "description": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation", 
         "number": "17.15.1", 
         "parent": "target_17_15", 
         "slug": "indicator_17_15_1", 
@@ -955,7 +1115,7 @@
     }, 
     "indicator_17_16_1": {
         "children": [], 
-        "description": "Number of countries reporting  progress in multi-stakeholder development effectiveness monitoring frameworks that  support the achievement of the sustainable development goals", 
+        "description": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals", 
         "number": "17.16.1", 
         "parent": "target_17_16", 
         "slug": "indicator_17_16_1", 
@@ -963,7 +1123,7 @@
     }, 
     "indicator_17_17_1": {
         "children": [], 
-        "description": "Amount of United States dollars  committed to public-private and civil  society partnerships", 
+        "description": "Amount of United States dollars committed to public-private and civil society partnerships", 
         "number": "17.17.1", 
         "parent": "target_17_17", 
         "slug": "indicator_17_17_1", 
@@ -971,7 +1131,7 @@
     }, 
     "indicator_17_18_1": {
         "children": [], 
-        "description": "Proportion of sustainable  development indicators produced at the  national level with full disaggregation  when relevant to the target, in accordance  with the Fundamental Principles of  Official Statistics", 
+        "description": "Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics", 
         "number": "17.18.1", 
         "parent": "target_17_18", 
         "slug": "indicator_17_18_1", 
@@ -979,7 +1139,7 @@
     }, 
     "indicator_17_18_2": {
         "children": [], 
-        "description": "Number of countries that have  national statistical legislation that  complies with the Fundamental Principles  of Official Statistics", 
+        "description": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics", 
         "number": "17.18.2", 
         "parent": "target_17_18", 
         "slug": "indicator_17_18_2", 
@@ -987,7 +1147,7 @@
     }, 
     "indicator_17_18_3": {
         "children": [], 
-        "description": "Number of countries with a  national statistical plan that is fully  funded and under implementation, by  source of funding", 
+        "description": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding", 
         "number": "17.18.3", 
         "parent": "target_17_18", 
         "slug": "indicator_17_18_3", 
@@ -995,15 +1155,23 @@
     }, 
     "indicator_17_19_1": {
         "children": [], 
-        "description": "Dollar value of all resources made available to strengthen statistical capacity  in developing countries", 
+        "description": "Dollar value of all resources made available to strengthen statistical capacity in developing countries", 
         "number": "17.19.1", 
         "parent": "target_17_19", 
         "slug": "indicator_17_19_1", 
         "type": "indicator"
     }, 
+    "indicator_17_19_2": {
+        "children": [], 
+        "description": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration", 
+        "number": "17.19.2", 
+        "parent": "target_17_19", 
+        "slug": "indicator_17_19_2", 
+        "type": "indicator"
+    }, 
     "indicator_17_1_1": {
         "children": [], 
-        "description": "Total government revenue as a  proportion of GDP, by source", 
+        "description": "Total government revenue as a proportion of GDP, by source", 
         "number": "17.1.1", 
         "parent": "target_17_1", 
         "slug": "indicator_17_1_1", 
@@ -1011,7 +1179,7 @@
     }, 
     "indicator_17_1_2": {
         "children": [], 
-        "description": "Proportion of domestic budget  funded by domestic taxes", 
+        "description": "Proportion of domestic budget funded by domestic taxes", 
         "number": "17.1.2", 
         "parent": "target_17_1", 
         "slug": "indicator_17_1_2", 
@@ -1019,7 +1187,7 @@
     }, 
     "indicator_17_2_1": {
         "children": [], 
-        "description": "Net official development  assistance, total and to least developed  countries, as a proportion of the  Organization for Economic Cooperation  and Development (OECD) Development  Assistance Committee donors' gross  national income (GNI)", 
+        "description": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors' gross national income (GNI)", 
         "number": "17.2.1", 
         "parent": "target_17_2", 
         "slug": "indicator_17_2_1", 
@@ -1027,7 +1195,7 @@
     }, 
     "indicator_17_3_1": {
         "children": [], 
-        "description": "Foreign direct investments (FDI),  official development assistance and South- South Cooperation as a proportion of total domestic budget", 
+        "description": "Foreign direct investments (FDI), official development assistance and South- South Cooperation as a proportion of total domestic budget", 
         "number": "17.3.1", 
         "parent": "target_17_3", 
         "slug": "indicator_17_3_1", 
@@ -1035,7 +1203,7 @@
     }, 
     "indicator_17_3_2": {
         "children": [], 
-        "description": "Volume of remittances (in United  States dollars) as a proportion of total  GDP", 
+        "description": "Volume of remittances (in United States dollars) as a proportion of total GDP", 
         "number": "17.3.2", 
         "parent": "target_17_3", 
         "slug": "indicator_17_3_2", 
@@ -1043,7 +1211,7 @@
     }, 
     "indicator_17_4_1": {
         "children": [], 
-        "description": "Debt service as a proportion of  exports of goods and services", 
+        "description": "Debt service as a proportion of exports of goods and services", 
         "number": "17.4.1", 
         "parent": "target_17_4", 
         "slug": "indicator_17_4_1", 
@@ -1051,7 +1219,7 @@
     }, 
     "indicator_17_5_1": {
         "children": [], 
-        "description": "Number of countries that adopt and implement investment promotion regimes  for least developed countries", 
+        "description": "Number of countries that adopt and implement investment promotion regimes for least developed countries", 
         "number": "17.5.1", 
         "parent": "target_17_5", 
         "slug": "indicator_17_5_1", 
@@ -1059,7 +1227,7 @@
     }, 
     "indicator_17_6_1": {
         "children": [], 
-        "description": "Number of science and/or  technology cooperation agreements and  programmes between countries, by type of  cooperation", 
+        "description": "Number of science and/or technology cooperation agreements and programmes between countries, by type of cooperation", 
         "number": "17.6.1", 
         "parent": "target_17_6", 
         "slug": "indicator_17_6_1", 
@@ -1075,7 +1243,7 @@
     }, 
     "indicator_17_7_1": {
         "children": [], 
-        "description": " Total amount of approved funding  for developing countries to promote the  development, transfer, dissemination and  diffusion of environmentally sound  technologies", 
+        "description": "Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies", 
         "number": "17.7.1", 
         "parent": "target_17_7", 
         "slug": "indicator_17_7_1", 
@@ -1083,7 +1251,7 @@
     }, 
     "indicator_17_8_1": {
         "children": [], 
-        "description": "Proportion of individuals using the  Internet", 
+        "description": "Proportion of individuals using the Internet", 
         "number": "17.8.1", 
         "parent": "target_17_8", 
         "slug": "indicator_17_8_1", 
@@ -1091,7 +1259,7 @@
     }, 
     "indicator_17_9_1": {
         "children": [], 
-        "description": "Dollar value of financial and  technical assistance (including through  North-South, South-South and triangular  cooperation) committed to developing  countries", 
+        "description": "Dollar value of financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to developing countries", 
         "number": "17.9.1", 
         "parent": "target_17_9", 
         "slug": "indicator_17_9_1", 
@@ -1099,7 +1267,7 @@
     }, 
     "indicator_1_1_1": {
         "children": [], 
-        "description": "Proportion of population below the international poverty line, by sex, age,  employment status and geographical location (urban/rural)", 
+        "description": "Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)", 
         "number": "1.1.1", 
         "parent": "target_1_1", 
         "slug": "indicator_1_1_1", 
@@ -1107,7 +1275,7 @@
     }, 
     "indicator_1_2_1": {
         "children": [], 
-        "description": "Proportion of population living below the national poverty line, by sex  and age", 
+        "description": "Proportion of population living below the national poverty line, by sex and age", 
         "number": "1.2.1", 
         "parent": "target_1_2", 
         "slug": "indicator_1_2_1", 
@@ -1115,7 +1283,7 @@
     }, 
     "indicator_1_2_2": {
         "children": [], 
-        "description": "Proportion of men, women and children of all ages living in poverty in all  its dimensions according to national definitions", 
+        "description": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions", 
         "number": "1.2.2", 
         "parent": "target_1_2", 
         "slug": "indicator_1_2_2", 
@@ -1123,15 +1291,23 @@
     }, 
     "indicator_1_3_1": {
         "children": [], 
-        "description": "Proportion of population covered by social protection floors/systems, by sex,  distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns,  work-injury victims and the poor and the vulnerable", 
+        "description": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable", 
         "number": "1.3.1", 
         "parent": "target_1_3", 
         "slug": "indicator_1_3_1", 
         "type": "indicator"
     }, 
+    "indicator_1_4_1": {
+        "children": [], 
+        "description": "Proportion of population living in households with access to basic services", 
+        "number": "1.4.1", 
+        "parent": "target_1_4", 
+        "slug": "indicator_1_4_1", 
+        "type": "indicator"
+    }, 
     "indicator_1_4_2": {
         "children": [], 
-        "description": "Proportion of total adult population  with secure tenure rights to land, with  legally recognized documentation and who perceive their rights to land as secure, by  sex and by type of tenure", 
+        "description": "Proportion of total adult population with secure tenure rights to land, with legally recognized documentation and who perceive their rights to land as secure, by sex and by type of tenure", 
         "number": "1.4.2", 
         "parent": "target_1_4", 
         "slug": "indicator_1_4_2", 
@@ -1139,7 +1315,7 @@
     }, 
     "indicator_1_5_1": {
         "children": [], 
-        "description": "Number of deaths, missing persons  and persons affected by disaster per  100,000 people", 
+        "description": "Number of deaths, missing persons and persons affected by disaster per 100,000 people", 
         "number": "1.5.1", 
         "parent": "target_1_5", 
         "slug": "indicator_1_5_1", 
@@ -1147,15 +1323,23 @@
     }, 
     "indicator_1_5_2": {
         "children": [], 
-        "description": "Direct disaster economic loss in  relation to global gross domestic product  a (GDP)", 
+        "description": "Direct disaster economic loss in relation to global gross domestic product a (GDP)", 
         "number": "1.5.2", 
         "parent": "target_1_5", 
         "slug": "indicator_1_5_2", 
         "type": "indicator"
     }, 
+    "indicator_1_5_3": {
+        "children": [], 
+        "description": "Number of countries with national and local disaster risk reduction strategies", 
+        "number": "1.5.3", 
+        "parent": "target_1_5", 
+        "slug": "indicator_1_5_3", 
+        "type": "indicator"
+    }, 
     "indicator_1_a_1": {
         "children": [], 
-        "description": "Proportion of resources allocated by  the government directly to poverty  reduction programmes", 
+        "description": "Proportion of resources allocated by the government directly to poverty reduction programmes", 
         "number": "1.a.1", 
         "parent": "target_1_a", 
         "slug": "indicator_1_a_1", 
@@ -1163,7 +1347,7 @@
     }, 
     "indicator_1_a_2": {
         "children": [], 
-        "description": "Proportion of total government  spending on essential services (education,  health and social protection)", 
+        "description": "Proportion of total government spending on essential services (education, health and social protection)", 
         "number": "1.a.2", 
         "parent": "target_1_a", 
         "slug": "indicator_1_a_2", 
@@ -1171,7 +1355,7 @@
     }, 
     "indicator_1_b_1": {
         "children": [], 
-        "description": "Proportion of government recurrent  and capital spending to sectors that  disproportionately benefit women, the  poor and vulnerable groups", 
+        "description": "Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups", 
         "number": "1.b.1", 
         "parent": "target_1_b", 
         "slug": "indicator_1_b_1", 
@@ -1187,15 +1371,23 @@
     }, 
     "indicator_2_1_2": {
         "children": [], 
-        "description": "Prevalence of moderate or severe  food insecurity in the population, based on the Food Insecurity Experience Scale  (FIES)", 
+        "description": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)", 
         "number": "2.1.2", 
         "parent": "target_2_1", 
         "slug": "indicator_2_1_2", 
         "type": "indicator"
     }, 
+    "indicator_2_2_1": {
+        "children": [], 
+        "description": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age", 
+        "number": "2.2.1", 
+        "parent": "target_2_2", 
+        "slug": "indicator_2_2_1", 
+        "type": "indicator"
+    }, 
     "indicator_2_2_2": {
         "children": [], 
-        "description": "Prevalence of malnutrition (weight  for height >+2 or <-2 standard deviation  from the median of the WHO Child  Growth Standards) among children under  5 years of age, by type (wasting and  overweight)", 
+        "description": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)", 
         "number": "2.2.2", 
         "parent": "target_2_2", 
         "slug": "indicator_2_2_2", 
@@ -1203,7 +1395,7 @@
     }, 
     "indicator_2_3_1": {
         "children": [], 
-        "description": "Volume of production per labour  unit by classes of farming/pastoral/forestry enterprise size", 
+        "description": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size", 
         "number": "2.3.1", 
         "parent": "target_2_3", 
         "slug": "indicator_2_3_1", 
@@ -1211,7 +1403,7 @@
     }, 
     "indicator_2_3_2": {
         "children": [], 
-        "description": "Average income of small-scale food  producers, by sex and indigenous status", 
+        "description": "Average income of small-scale food producers, by sex and indigenous status", 
         "number": "2.3.2", 
         "parent": "target_2_3", 
         "slug": "indicator_2_3_2", 
@@ -1219,15 +1411,23 @@
     }, 
     "indicator_2_4_1": {
         "children": [], 
-        "description": "Proportion of agricultural area under  productive and sustainable agriculture", 
+        "description": "Proportion of agricultural area under productive and sustainable agriculture", 
         "number": "2.4.1", 
         "parent": "target_2_4", 
         "slug": "indicator_2_4_1", 
         "type": "indicator"
     }, 
+    "indicator_2_5_1": {
+        "children": [], 
+        "description": "Number of plant and animal genetic resources for food and agriculture secured in either medium or long-term conservation facilities", 
+        "number": "2.5.1", 
+        "parent": "target_2_5", 
+        "slug": "indicator_2_5_1", 
+        "type": "indicator"
+    }, 
     "indicator_2_5_2": {
         "children": [], 
-        "description": "Proportion of local breeds classified  as being at risk, not-at-risk or at unknown  level of risk of extinction", 
+        "description": "Proportion of local breeds classified as being at risk, not-at-risk or at unknown level of risk of extinction", 
         "number": "2.5.2", 
         "parent": "target_2_5", 
         "slug": "indicator_2_5_2", 
@@ -1235,7 +1435,7 @@
     }, 
     "indicator_2_a_1": {
         "children": [], 
-        "description": "The agriculture orientation index for  government expenditures", 
+        "description": "The agriculture orientation index for government expenditures", 
         "number": "2.a.1", 
         "parent": "target_2_a", 
         "slug": "indicator_2_a_1", 
@@ -1243,10 +1443,18 @@
     }, 
     "indicator_2_a_2": {
         "children": [], 
-        "description": "Total official flows (official  development assistance plus other official  flows) to the agriculture sector", 
+        "description": "Total official flows (official development assistance plus other official flows) to the agriculture sector", 
         "number": "2.a.2", 
         "parent": "target_2_a", 
         "slug": "indicator_2_a_2", 
+        "type": "indicator"
+    }, 
+    "indicator_2_b_1": {
+        "children": [], 
+        "description": "Producer Support Estimate", 
+        "number": "2.b.1", 
+        "parent": "target_2_b", 
+        "slug": "indicator_2_b_1", 
         "type": "indicator"
     }, 
     "indicator_2_b_2": {
@@ -1275,10 +1483,18 @@
     }, 
     "indicator_3_1_2": {
         "children": [], 
-        "description": "Proportion of births attended by  skilled health personnel", 
+        "description": "Proportion of births attended by skilled health personnel", 
         "number": "3.1.2", 
         "parent": "target_3_1", 
         "slug": "indicator_3_1_2", 
+        "type": "indicator"
+    }, 
+    "indicator_3_2_1": {
+        "children": [], 
+        "description": "Under-five mortality rate", 
+        "number": "3.2.1", 
+        "parent": "target_3_2", 
+        "slug": "indicator_3_2_1", 
         "type": "indicator"
     }, 
     "indicator_3_2_2": {
@@ -1291,7 +1507,7 @@
     }, 
     "indicator_3_3_1": {
         "children": [], 
-        "description": "Number of new HIV infections per  1,000 uninfected population, by sex, age  and key populations", 
+        "description": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations", 
         "number": "3.3.1", 
         "parent": "target_3_3", 
         "slug": "indicator_3_3_1", 
@@ -1299,7 +1515,7 @@
     }, 
     "indicator_3_3_2": {
         "children": [], 
-        "description": "Tuberculosis incidence per 1,000  population", 
+        "description": "Tuberculosis incidence per 1,000 population", 
         "number": "3.3.2", 
         "parent": "target_3_3", 
         "slug": "indicator_3_3_2", 
@@ -1307,7 +1523,7 @@
     }, 
     "indicator_3_3_3": {
         "children": [], 
-        "description": "Malaria incidence per 1,000  population", 
+        "description": "Malaria incidence per 1,000 population", 
         "number": "3.3.3", 
         "parent": "target_3_3", 
         "slug": "indicator_3_3_3", 
@@ -1315,15 +1531,23 @@
     }, 
     "indicator_3_3_4": {
         "children": [], 
-        "description": "Hepatitis B incidence per 100,000  population", 
+        "description": "Hepatitis B incidence per 100,000 population", 
         "number": "3.3.4", 
         "parent": "target_3_3", 
         "slug": "indicator_3_3_4", 
         "type": "indicator"
     }, 
+    "indicator_3_3_5": {
+        "children": [], 
+        "description": "Number of people requiring interventions against neglected tropical diseases", 
+        "number": "3.3.5", 
+        "parent": "target_3_3", 
+        "slug": "indicator_3_3_5", 
+        "type": "indicator"
+    }, 
     "indicator_3_4_1": {
         "children": [], 
-        "description": "Mortality rate attributed to  cardiovascular disease, cancer, diabetes or  chronic respiratory disease", 
+        "description": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease", 
         "number": "3.4.1", 
         "parent": "target_3_4", 
         "slug": "indicator_3_4_1", 
@@ -1339,7 +1563,7 @@
     }, 
     "indicator_3_5_1": {
         "children": [], 
-        "description": "Coverage of treatment interventions  (pharmacological, psychosocial and  rehabilitation and aftercare services) for  substance use disorders", 
+        "description": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders", 
         "number": "3.5.1", 
         "parent": "target_3_5", 
         "slug": "indicator_3_5_1", 
@@ -1347,7 +1571,7 @@
     }, 
     "indicator_3_5_2": {
         "children": [], 
-        "description": "Harmful use of alcohol, defined  according to the national context as  alcohol per capita consumption (aged 15  years and older) within a calendar year in  litres of pure alcohol", 
+        "description": "Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol", 
         "number": "3.5.2", 
         "parent": "target_3_5", 
         "slug": "indicator_3_5_2", 
@@ -1363,7 +1587,7 @@
     }, 
     "indicator_3_7_1": {
         "children": [], 
-        "description": "Proportion of women of  reproductive age (aged 15-49 years) who  have their need for family planning  satisfied with modern methods", 
+        "description": "Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods", 
         "number": "3.7.1", 
         "parent": "target_3_7", 
         "slug": "indicator_3_7_1", 
@@ -1371,15 +1595,23 @@
     }, 
     "indicator_3_7_2": {
         "children": [], 
-        "description": "Adolescent birth rate (aged 10-14  years; aged 15-19 years) per 1,000 women in that age group", 
+        "description": "Adolescent birth rate (aged 10-14 years; aged 15-19 years) per 1,000 women in that age group", 
         "number": "3.7.2", 
         "parent": "target_3_7", 
         "slug": "indicator_3_7_2", 
         "type": "indicator"
     }, 
+    "indicator_3_8_1": {
+        "children": [], 
+        "description": "Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population)", 
+        "number": "3.8.1", 
+        "parent": "target_3_8", 
+        "slug": "indicator_3_8_1", 
+        "type": "indicator"
+    }, 
     "indicator_3_8_2": {
         "children": [], 
-        "description": "Number of people covered by health  insurance or a public health system per  1,000 population", 
+        "description": "Number of people covered by health insurance or a public health system per 1,000 population", 
         "number": "3.8.2", 
         "parent": "target_3_8", 
         "slug": "indicator_3_8_2", 
@@ -1387,15 +1619,23 @@
     }, 
     "indicator_3_9_1": {
         "children": [], 
-        "description": "Mortality rate attributed to  household and ambient air pollution", 
+        "description": "Mortality rate attributed to household and ambient air pollution", 
         "number": "3.9.1", 
         "parent": "target_3_9", 
         "slug": "indicator_3_9_1", 
         "type": "indicator"
     }, 
+    "indicator_3_9_2": {
+        "children": [], 
+        "description": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)", 
+        "number": "3.9.2", 
+        "parent": "target_3_9", 
+        "slug": "indicator_3_9_2", 
+        "type": "indicator"
+    }, 
     "indicator_3_9_3": {
         "children": [], 
-        "description": "Mortality rate attributed to  unintentional poisoning", 
+        "description": "Mortality rate attributed to unintentional poisoning", 
         "number": "3.9.3", 
         "parent": "target_3_9", 
         "slug": "indicator_3_9_3", 
@@ -1403,7 +1643,7 @@
     }, 
     "indicator_3_a_1": {
         "children": [], 
-        "description": "Age-standardized prevalence of  current tobacco use among persons aged  15 years and older", 
+        "description": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older", 
         "number": "3.a.1", 
         "parent": "target_3_a", 
         "slug": "indicator_3_a_1", 
@@ -1411,7 +1651,7 @@
     }, 
     "indicator_3_b_1": {
         "children": [], 
-        "description": "Proportion of the population with  access to affordable medicines and  vaccines on a sustainable basis", 
+        "description": "Proportion of the population with access to affordable medicines and vaccines on a sustainable basis", 
         "number": "3.b.1", 
         "parent": "target_3_b", 
         "slug": "indicator_3_b_1", 
@@ -1419,7 +1659,7 @@
     }, 
     "indicator_3_b_2": {
         "children": [], 
-        "description": "Total net official development  assistance to medical research and basic  health sectors", 
+        "description": "Total net official development assistance to medical research and basic health sectors", 
         "number": "3.b.2", 
         "parent": "target_3_b", 
         "slug": "indicator_3_b_2", 
@@ -1427,7 +1667,7 @@
     }, 
     "indicator_3_c_1": {
         "children": [], 
-        "description": "Health worker density and  distribution", 
+        "description": "Health worker density and distribution", 
         "number": "3.c.1", 
         "parent": "target_3_c", 
         "slug": "indicator_3_c_1", 
@@ -1435,7 +1675,7 @@
     }, 
     "indicator_3_d_1": {
         "children": [], 
-        "description": " International Health Regulations  (IHR) capacity and health emergency  preparedness", 
+        "description": "International Health Regulations (IHR) capacity and health emergency preparedness", 
         "number": "3.d.1", 
         "parent": "target_3_d", 
         "slug": "indicator_3_d_1", 
@@ -1443,7 +1683,7 @@
     }, 
     "indicator_4_1_1": {
         "children": [], 
-        "description": " Proportion of children and young  people: (a) in grades 2/3; (b) at the end of  primary; and (c) at the end of lower  secondary achieving at least a minimum  proficiency level in (i) reading and  (ii) mathematics, by sex", 
+        "description": "Proportion of children and young people: (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex", 
         "number": "4.1.1", 
         "parent": "target_4_1", 
         "slug": "indicator_4_1_1", 
@@ -1459,7 +1699,7 @@
     }, 
     "indicator_4_2_2": {
         "children": [], 
-        "description": " Participation rate in organized  learning (one year before the official  primary entry age), by sex", 
+        "description": "Participation rate in organized learning (one year before the official primary entry age), by sex", 
         "number": "4.2.2", 
         "parent": "target_4_2", 
         "slug": "indicator_4_2_2", 
@@ -1467,7 +1707,7 @@
     }, 
     "indicator_4_3_1": {
         "children": [], 
-        "description": " Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex", 
+        "description": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex", 
         "number": "4.3.1", 
         "parent": "target_4_3", 
         "slug": "indicator_4_3_1", 
@@ -1475,7 +1715,7 @@
     }, 
     "indicator_4_4_1": {
         "children": [], 
-        "description": " Proportion of youth and adults with  information and communications  technology (ICT) skills, by type of skill", 
+        "description": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill", 
         "number": "4.4.1", 
         "parent": "target_4_4", 
         "slug": "indicator_4_4_1", 
@@ -1483,7 +1723,7 @@
     }, 
     "indicator_4_5_1": {
         "children": [], 
-        "description": " Parity indices (female/male,  rural/urban, bottom/top wealth quintile  and others such as disability status,  indigenous peoples and conflict-affected,  as data become available) for all  education indicators on this list that can  be disaggregated", 
+        "description": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated", 
         "number": "4.5.1", 
         "parent": "target_4_5", 
         "slug": "indicator_4_5_1", 
@@ -1491,7 +1731,7 @@
     }, 
     "indicator_4_6_1": {
         "children": [], 
-        "description": " Percentage of population in a given  age group achieving at least a fixed level  of proficiency in functional (a) literacy and (b) numeracy skills, by sex", 
+        "description": "Percentage of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex", 
         "number": "4.6.1", 
         "parent": "target_4_6", 
         "slug": "indicator_4_6_1", 
@@ -1499,15 +1739,23 @@
     }, 
     "indicator_4_7_1": {
         "children": [], 
-        "description": " Extent to which (i) global  citizenship education and (ii) education  for sustainable development, including  gender equality and human rights, are  mainstreamed at all levels in: (a) national  education policies, (b) curricula, (c)  teacher education and (d) student  assessment", 
+        "description": "Extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in: (a) national education policies, (b) curricula, (c) teacher education and (d) student assessment", 
         "number": "4.7.1", 
         "parent": "target_4_7", 
         "slug": "indicator_4_7_1", 
         "type": "indicator"
     }, 
+    "indicator_4_a_1": {
+        "children": [], 
+        "description": "Proportion of schools with access to: (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)", 
+        "number": "4.a.1", 
+        "parent": "target_4_a", 
+        "slug": "indicator_4_a_1", 
+        "type": "indicator"
+    }, 
     "indicator_4_b_1": {
         "children": [], 
-        "description": " Volume of official development  assistance flows for scholarships by sector  and type of study", 
+        "description": "Volume of official development assistance flows for scholarships by sector and type of study", 
         "number": "4.b.1", 
         "parent": "target_4_b", 
         "slug": "indicator_4_b_1", 
@@ -1515,7 +1763,7 @@
     }, 
     "indicator_4_c_1": {
         "children": [], 
-        "description": " Proportion of teachers in: (a) pre- primary; (b) primary; (c) lower secondary;  and (d) upper secondary education who  have received at least the minimum  organized teacher training (e.g.  pedagogical training) pre-service or in- service required for teaching at the  relevant level in a given country", 
+        "description": "Proportion of teachers in: (a) pre- primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in- service required for teaching at the relevant level in a given country", 
         "number": "4.c.1", 
         "parent": "target_4_c", 
         "slug": "indicator_4_c_1", 
@@ -1523,7 +1771,7 @@
     }, 
     "indicator_5_1_1": {
         "children": [], 
-        "description": " Whether or not legal frameworks  are in place to promote, enforce and  monitor equality and non_discrimination  on the basis of sex", 
+        "description": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non_discrimination on the basis of sex", 
         "number": "5.1.1", 
         "parent": "target_5_1", 
         "slug": "indicator_5_1_1", 
@@ -1531,7 +1779,7 @@
     }, 
     "indicator_5_2_1": {
         "children": [], 
-        "description": " Proportion of ever-partnered  women and girls aged 15 years and older  subjected to physical, sexual or  psychological violence by a current or  former intimate partner in the previous 12  months, by form of violence and by age", 
+        "description": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age", 
         "number": "5.2.1", 
         "parent": "target_5_2", 
         "slug": "indicator_5_2_1", 
@@ -1539,7 +1787,7 @@
     }, 
     "indicator_5_2_2": {
         "children": [], 
-        "description": " Proportion of women and girls aged  15 years and older subjected to sexual  violence by persons other than an intimate  partner in the previous 12 months, by age  and place of occurrence", 
+        "description": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence", 
         "number": "5.2.2", 
         "parent": "target_5_2", 
         "slug": "indicator_5_2_2", 
@@ -1547,7 +1795,7 @@
     }, 
     "indicator_5_3_1": {
         "children": [], 
-        "description": " Proportion of women aged 20-24  years who were married or in a union  before age 15 and before age 18", 
+        "description": "Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18", 
         "number": "5.3.1", 
         "parent": "target_5_3", 
         "slug": "indicator_5_3_1", 
@@ -1555,7 +1803,7 @@
     }, 
     "indicator_5_3_2": {
         "children": [], 
-        "description": " Proportion of girls and women aged  15-49 years who have undergone female  genital mutilation/cutting, by age", 
+        "description": "Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting, by age", 
         "number": "5.3.2", 
         "parent": "target_5_3", 
         "slug": "indicator_5_3_2", 
@@ -1563,7 +1811,7 @@
     }, 
     "indicator_5_4_1": {
         "children": [], 
-        "description": " Proportion of time spent on unpaid  domestic and care work, by sex, age and  location", 
+        "description": "Proportion of time spent on unpaid domestic and care work, by sex, age and location", 
         "number": "5.4.1", 
         "parent": "target_5_4", 
         "slug": "indicator_5_4_1", 
@@ -1571,7 +1819,7 @@
     }, 
     "indicator_5_5_1": {
         "children": [], 
-        "description": " Proportion of seats held by women  in national parliaments and local  governments", 
+        "description": "Proportion of seats held by women in national parliaments and local governments", 
         "number": "5.5.1", 
         "parent": "target_5_5", 
         "slug": "indicator_5_5_1", 
@@ -1579,7 +1827,7 @@
     }, 
     "indicator_5_5_2": {
         "children": [], 
-        "description": " Proportion of women in managerial  positions", 
+        "description": "Proportion of women in managerial positions", 
         "number": "5.5.2", 
         "parent": "target_5_5", 
         "slug": "indicator_5_5_2", 
@@ -1587,15 +1835,23 @@
     }, 
     "indicator_5_6_1": {
         "children": [], 
-        "description": " Proportion of women aged 15-49  years who make their own informed  decisions regarding sexual relations,  contraceptive use and reproductive health  care", 
+        "description": "Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care", 
         "number": "5.6.1", 
         "parent": "target_5_6", 
         "slug": "indicator_5_6_1", 
         "type": "indicator"
     }, 
+    "indicator_5_6_2": {
+        "children": [], 
+        "description": "Number of countries with laws and regulations that guarantee women aged 15-49 years access to sexual and reproductive health care, information and education", 
+        "number": "5.6.2", 
+        "parent": "target_5_6", 
+        "slug": "indicator_5_6_2", 
+        "type": "indicator"
+    }, 
     "indicator_5_a_1": {
         "children": [], 
-        "description": " (a) Proportion of total agricultural  population with ownership or secure  rights over agricultural land, by sex; and  (b) share of women among owners or  rights-bearers of agricultural land, by type  of tenure", 
+        "description": "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure", 
         "number": "5.a.1", 
         "parent": "target_5_a", 
         "slug": "indicator_5_a_1", 
@@ -1603,7 +1859,7 @@
     }, 
     "indicator_5_a_2": {
         "children": [], 
-        "description": " Proportion of countries where the  legal framework (including customary  law) guarantees women's equal rights to  land ownership and/or control", 
+        "description": "Proportion of countries where the legal framework (including customary law) guarantees women's equal rights to land ownership and/or control", 
         "number": "5.a.2", 
         "parent": "target_5_a", 
         "slug": "indicator_5_a_2", 
@@ -1619,7 +1875,7 @@
     }, 
     "indicator_5_c_1": {
         "children": [], 
-        "description": " Proportion of countries with  systems to track and make public  allocations for gender equality and  women's empowerment", 
+        "description": "Proportion of countries with systems to track and make public allocations for gender equality and women's empowerment", 
         "number": "5.c.1", 
         "parent": "target_5_c", 
         "slug": "indicator_5_c_1", 
@@ -1627,23 +1883,39 @@
     }, 
     "indicator_6_1_1": {
         "children": [], 
-        "description": " Proportion of population using  safely managed drinking water services", 
+        "description": "Proportion of population using safely managed drinking water services", 
         "number": "6.1.1", 
         "parent": "target_6_1", 
         "slug": "indicator_6_1_1", 
         "type": "indicator"
     }, 
+    "indicator_6_2_1": {
+        "children": [], 
+        "description": "Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water", 
+        "number": "6.2.1", 
+        "parent": "target_6_2", 
+        "slug": "indicator_6_2_1", 
+        "type": "indicator"
+    }, 
     "indicator_6_3_1": {
         "children": [], 
-        "description": " Proportion of wastewater safely  treated", 
+        "description": "Proportion of wastewater safely treated", 
         "number": "6.3.1", 
         "parent": "target_6_3", 
         "slug": "indicator_6_3_1", 
         "type": "indicator"
     }, 
+    "indicator_6_3_2": {
+        "children": [], 
+        "description": "Proportion of bodies of water with good ambient water quality", 
+        "number": "6.3.2", 
+        "parent": "target_6_3", 
+        "slug": "indicator_6_3_2", 
+        "type": "indicator"
+    }, 
     "indicator_6_4_1": {
         "children": [], 
-        "description": " Change in water-use efficiency over  time", 
+        "description": "Change in water-use efficiency over time", 
         "number": "6.4.1", 
         "parent": "target_6_4", 
         "slug": "indicator_6_4_1", 
@@ -1651,39 +1923,71 @@
     }, 
     "indicator_6_4_2": {
         "children": [], 
-        "description": " Level of water stress: freshwater  withdrawal as a proportion of available  freshwater resources", 
+        "description": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources", 
         "number": "6.4.2", 
         "parent": "target_6_4", 
         "slug": "indicator_6_4_2", 
         "type": "indicator"
     }, 
+    "indicator_6_5_1": {
+        "children": [], 
+        "description": "Degree of integrated water resources management implementation (0-100)", 
+        "number": "6.5.1", 
+        "parent": "target_6_5", 
+        "slug": "indicator_6_5_1", 
+        "type": "indicator"
+    }, 
     "indicator_6_5_2": {
         "children": [], 
-        "description": " Proportion of transboundary basin  area with an operational arrangement for  water cooperation", 
+        "description": "Proportion of transboundary basin area with an operational arrangement for water cooperation", 
         "number": "6.5.2", 
         "parent": "target_6_5", 
         "slug": "indicator_6_5_2", 
         "type": "indicator"
     }, 
+    "indicator_6_6_1": {
+        "children": [], 
+        "description": "Change in the extent of waterrelated ecosystems over time", 
+        "number": "6.6.1", 
+        "parent": "target_6_6", 
+        "slug": "indicator_6_6_1", 
+        "type": "indicator"
+    }, 
     "indicator_6_a_1": {
         "children": [], 
-        "description": "Amount of water- and sanitation- related official development assistance official development assistance that is part of a government-coordinated spending plan", 
+        "description": "Amount of water- and sanitation- related official development assistance that is part of a government-coordinated spending plan", 
         "number": "6.a.1", 
         "parent": "target_6_a", 
         "slug": "indicator_6_a_1", 
         "type": "indicator"
     }, 
+    "indicator_6_b_1": {
+        "children": [], 
+        "description": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management", 
+        "number": "6.b.1", 
+        "parent": "target_6_b", 
+        "slug": "indicator_6_b_1", 
+        "type": "indicator"
+    }, 
     "indicator_7_1_1": {
         "children": [], 
-        "description": " Proportion of population with  access to electricity", 
+        "description": "Proportion of population with access to electricity", 
         "number": "7.1.1", 
         "parent": "target_7_1", 
         "slug": "indicator_7_1_1", 
         "type": "indicator"
     }, 
+    "indicator_7_1_2": {
+        "children": [], 
+        "description": "Proportion of population with primary reliance on clean fuels and technology", 
+        "number": "7.1.2", 
+        "parent": "target_7_1", 
+        "slug": "indicator_7_1_2", 
+        "type": "indicator"
+    }, 
     "indicator_7_2_1": {
         "children": [], 
-        "description": " Renewable energy share in the total  final energy consumption", 
+        "description": "Renewable energy share in the total final energy consumption", 
         "number": "7.2.1", 
         "parent": "target_7_2", 
         "slug": "indicator_7_2_1", 
@@ -1691,15 +1995,23 @@
     }, 
     "indicator_7_3_1": {
         "children": [], 
-        "description": " Energy intensity measured in terms  of primary energy and GDP", 
+        "description": "Energy intensity measured in terms of primary energy and GDP", 
         "number": "7.3.1", 
         "parent": "target_7_3", 
         "slug": "indicator_7_3_1", 
         "type": "indicator"
     }, 
+    "indicator_7_a_1": {
+        "children": [], 
+        "description": "Mobilized amount of United States dollars per year starting in 2020 accountable towards the $100 billion commitment", 
+        "number": "7.a.1", 
+        "parent": "target_7_a", 
+        "slug": "indicator_7_a_1", 
+        "type": "indicator"
+    }, 
     "indicator_7_b_1": {
         "children": [], 
-        "description": " Investments in energy efficiency as  a percentage of GDP and the amount of  foreign direct investment in financial  transfer for infrastructure and technology  to sustainable development services", 
+        "description": "Investments in energy efficiency as a percentage of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services", 
         "number": "7.b.1", 
         "parent": "target_7_b", 
         "slug": "indicator_7_b_1", 
@@ -1707,7 +2019,7 @@
     }, 
     "indicator_8_10_1": {
         "children": [], 
-        "description": " Number of commercial bank  branches and automated teller machines  (ATMs) per 100,000 adults", 
+        "description": "Number of commercial bank branches and automated teller machines (ATMs) per 100,000 adults", 
         "number": "8.10.1", 
         "parent": "target_8_10", 
         "slug": "indicator_8_10_1", 
@@ -1715,7 +2027,7 @@
     }, 
     "indicator_8_10_2": {
         "children": [], 
-        "description": " Proportion of adults (15 years and  older) with an account at a bank or other  financial institution or with a mobile- money-service provider", 
+        "description": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile- money-service provider", 
         "number": "8.10.2", 
         "parent": "target_8_10", 
         "slug": "indicator_8_10_2", 
@@ -1723,7 +2035,7 @@
     }, 
     "indicator_8_1_1": {
         "children": [], 
-        "description": " Annual growth rate of real GDP per  capita", 
+        "description": "Annual growth rate of real GDP per capita", 
         "number": "8.1.1", 
         "parent": "target_8_1", 
         "slug": "indicator_8_1_1", 
@@ -1731,7 +2043,7 @@
     }, 
     "indicator_8_2_1": {
         "children": [], 
-        "description": " Annual growth rate of real GDP per  employed person", 
+        "description": "Annual growth rate of real GDP per employed person", 
         "number": "8.2.1", 
         "parent": "target_8_2", 
         "slug": "indicator_8_2_1", 
@@ -1739,7 +2051,7 @@
     }, 
     "indicator_8_3_1": {
         "children": [], 
-        "description": " Proportion of informal employment  in non_agriculture employment, by sex", 
+        "description": "Proportion of informal employment in non_agriculture employment, by sex", 
         "number": "8.3.1", 
         "parent": "target_8_3", 
         "slug": "indicator_8_3_1", 
@@ -1755,7 +2067,7 @@
     }, 
     "indicator_8_4_2": {
         "children": [], 
-        "description": " Domestic material consumption,  domestic material consumption per capita,  and domestic material consumption per  GDP", 
+        "description": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP", 
         "number": "8.4.2", 
         "parent": "target_8_4", 
         "slug": "indicator_8_4_2", 
@@ -1771,7 +2083,7 @@
     }, 
     "indicator_8_5_2": {
         "children": [], 
-        "description": " Unemployment rate, by sex, age  and persons with disabilities", 
+        "description": "Unemployment rate, by sex, age and persons with disabilities", 
         "number": "8.5.2", 
         "parent": "target_8_5", 
         "slug": "indicator_8_5_2", 
@@ -1779,7 +2091,7 @@
     }, 
     "indicator_8_6_1": {
         "children": [], 
-        "description": " Proportion of youth (aged 15-24  years) not in education, employment or  training", 
+        "description": "Proportion of youth (aged 15-24 years) not in education, employment or training", 
         "number": "8.6.1", 
         "parent": "target_8_6", 
         "slug": "indicator_8_6_1", 
@@ -1787,15 +2099,23 @@
     }, 
     "indicator_8_7_1": {
         "children": [], 
-        "description": " Proportion and number of children  aged 5_17 years engaged in child labour,  by sex and age", 
+        "description": "Proportion and number of children aged 5_17 years engaged in child labour, by sex and age", 
         "number": "8.7.1", 
         "parent": "target_8_7", 
         "slug": "indicator_8_7_1", 
         "type": "indicator"
     }, 
+    "indicator_8_8_1": {
+        "children": [], 
+        "description": "Frequency rates of fatal and nonfatal occupational injuries, by sex and migrant status", 
+        "number": "8.8.1", 
+        "parent": "target_8_8", 
+        "slug": "indicator_8_8_1", 
+        "type": "indicator"
+    }, 
     "indicator_8_8_2": {
         "children": [], 
-        "description": " Increase in national compliance of  labour rights (freedom of association and  collective bargaining) based on  International Labour Organization (ILO)  textual sources and national legislation, by sex and migrant status", 
+        "description": "Increase in national compliance of labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status", 
         "number": "8.8.2", 
         "parent": "target_8_8", 
         "slug": "indicator_8_8_2", 
@@ -1819,7 +2139,7 @@
     }, 
     "indicator_8_a_1": {
         "children": [], 
-        "description": " Aid for Trade commitments and  disbursements", 
+        "description": "Aid for Trade commitments and disbursements", 
         "number": "8.a.1", 
         "parent": "target_8_a", 
         "slug": "indicator_8_a_1", 
@@ -1827,7 +2147,7 @@
     }, 
     "indicator_8_b_1": {
         "children": [], 
-        "description": "Total government spending in social  protection and employment programmes  as a proportion of the national budgets  and GDP", 
+        "description": "Total government spending in social protection and employment programmes as a proportion of the national budgets and GDP", 
         "number": "8.b.1", 
         "parent": "target_8_b", 
         "slug": "indicator_8_b_1", 
@@ -1835,7 +2155,7 @@
     }, 
     "indicator_9_1_1": {
         "children": [], 
-        "description": "Proportion of the rural population  who live within 2 km of an all-season  road", 
+        "description": "Proportion of the rural population who live within 2 km of an all-season road", 
         "number": "9.1.1", 
         "parent": "target_9_1", 
         "slug": "indicator_9_1_1", 
@@ -1843,7 +2163,7 @@
     }, 
     "indicator_9_1_2": {
         "children": [], 
-        "description": " Passenger and freight volumes, by  mode of transport", 
+        "description": "Passenger and freight volumes, by mode of transport", 
         "number": "9.1.2", 
         "parent": "target_9_1", 
         "slug": "indicator_9_1_2", 
@@ -1851,15 +2171,23 @@
     }, 
     "indicator_9_2_1": {
         "children": [], 
-        "description": " Manufacturing value added as a  proportion of GDP and per capita", 
+        "description": "Manufacturing value added as a proportion of GDP and per capita", 
         "number": "9.2.1", 
         "parent": "target_9_2", 
         "slug": "indicator_9_2_1", 
         "type": "indicator"
     }, 
+    "indicator_9_2_2": {
+        "children": [], 
+        "description": "Manufacturing employment as a proportion of total employment", 
+        "number": "9.2.2", 
+        "parent": "target_9_2", 
+        "slug": "indicator_9_2_2", 
+        "type": "indicator"
+    }, 
     "indicator_9_3_1": {
         "children": [], 
-        "description": " Proportion of small-scale industries  in total industry value added", 
+        "description": "Proportion of small-scale industries in total industry value added", 
         "number": "9.3.1", 
         "parent": "target_9_3", 
         "slug": "indicator_9_3_1", 
@@ -1867,15 +2195,23 @@
     }, 
     "indicator_9_3_2": {
         "children": [], 
-        "description": " Proportion of small-scale industries  with a loan or line of credit", 
+        "description": "Proportion of small-scale industries with a loan or line of credit", 
         "number": "9.3.2", 
         "parent": "target_9_3", 
         "slug": "indicator_9_3_2", 
         "type": "indicator"
     }, 
+    "indicator_9_4_1": {
+        "children": [], 
+        "description": "CO2 emission per unit of value added", 
+        "number": "9.4.1", 
+        "parent": "target_9_4", 
+        "slug": "indicator_9_4_1", 
+        "type": "indicator"
+    }, 
     "indicator_9_5_1": {
         "children": [], 
-        "description": "Research and development  expenditure as a proportion of GDP", 
+        "description": "Research and development expenditure as a proportion of GDP", 
         "number": "9.5.1", 
         "parent": "target_9_5", 
         "slug": "indicator_9_5_1", 
@@ -1883,7 +2219,7 @@
     }, 
     "indicator_9_5_2": {
         "children": [], 
-        "description": "Researchers (in full-time equivalent)  per million inhabitants", 
+        "description": "Researchers (in full-time equivalent) per million inhabitants", 
         "number": "9.5.2", 
         "parent": "target_9_5", 
         "slug": "indicator_9_5_2", 
@@ -1899,10 +2235,18 @@
     }, 
     "indicator_9_b_1": {
         "children": [], 
-        "description": " Proportion of medium and high- tech industry value added in total value  added", 
+        "description": "Proportion of medium and high- tech industry value added in total value added", 
         "number": "9.b.1", 
         "parent": "target_9_b", 
         "slug": "indicator_9_b_1", 
+        "type": "indicator"
+    }, 
+    "indicator_9_c_1": {
+        "children": [], 
+        "description": "Proportion of population covered by a mobile network, by technology", 
+        "number": "9.c.1", 
+        "parent": "target_9_c", 
+        "slug": "indicator_9_c_1", 
         "type": "indicator"
     }, 
     "target_10_1": {
@@ -1967,6 +2311,7 @@
     }, 
     "target_10_7": {
         "children": [
+            "indicator_10_7_1", 
             "indicator_10_7_2"
         ], 
         "description": "Facilitate orderly, safe, regular and responsible migration and mobility of people, including through the implementation of planned and well-managed migration policies", 
@@ -1996,7 +2341,9 @@
         "type": "target"
     }, 
     "target_10_c": {
-        "children": [], 
+        "children": [
+            "indicator_10_c_1"
+        ], 
         "description": "By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent ", 
         "number": "10.c", 
         "parent": "goal_10", 
@@ -2014,7 +2361,9 @@
         "type": "target"
     }, 
     "target_11_2": {
-        "children": [], 
+        "children": [
+            "indicator_11_2_1"
+        ], 
         "description": "By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities and older persons", 
         "number": "11.2", 
         "parent": "goal_11", 
@@ -2044,6 +2393,7 @@
     }, 
     "target_11_5": {
         "children": [
+            "indicator_11_5_1", 
             "indicator_11_5_2"
         ], 
         "description": "By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations ", 
@@ -2054,7 +2404,8 @@
     }, 
     "target_11_6": {
         "children": [
-            "indicator_11_6_1"
+            "indicator_11_6_1", 
+            "indicator_11_6_2"
         ], 
         "description": "By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management ", 
         "number": "11.6", 
@@ -2084,7 +2435,10 @@
         "type": "target"
     }, 
     "target_11_b": {
-        "children": [], 
+        "children": [
+            "indicator_11_b_1", 
+            "indicator_11_b_2"
+        ], 
         "description": "By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters, and develop and implement, in line with the Sendai Framework for Disaster Risk Reduction 2015-2030, holistic disaster risk management at all levels", 
         "number": "11.b", 
         "parent": "goal_11", 
@@ -2092,7 +2446,9 @@
         "type": "target"
     }, 
     "target_11_c": {
-        "children": [], 
+        "children": [
+            "indicator_11_c_1"
+        ], 
         "description": "Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials ", 
         "number": "11.c", 
         "parent": "goal_11", 
@@ -2100,7 +2456,9 @@
         "type": "target"
     }, 
     "target_12_1": {
-        "children": [], 
+        "children": [
+            "indicator_12_1_1"
+        ], 
         "description": "Implement the 10-year framework of programmes on sustainable consumption and production, all countries taking action, with developed countries taking the lead, taking into account the development and capabilities of developing countries ", 
         "number": "12.1", 
         "parent": "goal_12", 
@@ -2109,6 +2467,7 @@
     }, 
     "target_12_2": {
         "children": [
+            "indicator_12_2_1", 
             "indicator_12_2_2"
         ], 
         "description": "By 2030, achieve the sustainable management and efficient use of natural resources", 
@@ -2139,7 +2498,9 @@
         "type": "target"
     }, 
     "target_12_5": {
-        "children": [], 
+        "children": [
+            "indicator_12_5_1"
+        ], 
         "description": "By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse ", 
         "number": "12.5", 
         "parent": "goal_12", 
@@ -2187,7 +2548,9 @@
         "type": "target"
     }, 
     "target_12_b": {
-        "children": [], 
+        "children": [
+            "indicator_12_b_1"
+        ], 
         "description": "Develop and implement tools to monitor sustainable development impacts for sustainable tourism that creates jobs and promotes local culture and products", 
         "number": "12.b", 
         "parent": "goal_12", 
@@ -2206,7 +2569,8 @@
     }, 
     "target_13_1": {
         "children": [
-            "indicator_13_1_1"
+            "indicator_13_1_1", 
+            "indicator_13_1_2"
         ], 
         "description": "Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries ", 
         "number": "13.1", 
@@ -2276,7 +2640,9 @@
         "type": "target"
     }, 
     "target_14_3": {
-        "children": [], 
+        "children": [
+            "indicator_14_3_1"
+        ], 
         "description": "Minimize and address the impacts of ocean acidification, including through enhanced scientific cooperation at all levels", 
         "number": "14.3", 
         "parent": "goal_14", 
@@ -2324,7 +2690,9 @@
         "type": "target"
     }, 
     "target_14_a": {
-        "children": [], 
+        "children": [
+            "indicator_14_a_1"
+        ], 
         "description": "Increase scientific knowledge, develop research capacity and transfer marine technology, taking into account the Intergovernmental Oceanographic Commission Criteria and Guidelines on the Transfer of Marine Technology, in order to improve ocean health and to enhance the contribution of marine biodiversity to the development of developing countries, in particular small island developing States and least developed countries", 
         "number": "14.a", 
         "parent": "goal_14", 
@@ -2373,7 +2741,9 @@
         "type": "target"
     }, 
     "target_15_3": {
-        "children": [], 
+        "children": [
+            "indicator_15_3_1"
+        ], 
         "description": "By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world", 
         "number": "15.3", 
         "parent": "goal_15", 
@@ -2452,7 +2822,9 @@
         "type": "target"
     }, 
     "target_15_b": {
-        "children": [], 
+        "children": [
+            "indicator_15_b_1"
+        ], 
         "description": "Mobilize significant resources from all sources and at all levels to finance sustainable forest management and provide adequate incentives to developing countries to advance such management, including for conservation and reforestation", 
         "number": "15.b", 
         "parent": "goal_15", 
@@ -2495,6 +2867,7 @@
     }, 
     "target_16_2": {
         "children": [
+            "indicator_16_2_1", 
             "indicator_16_2_2", 
             "indicator_16_2_3"
         ], 
@@ -2517,6 +2890,7 @@
     }, 
     "target_16_4": {
         "children": [
+            "indicator_16_4_1", 
             "indicator_16_4_2"
         ], 
         "description": "By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime", 
@@ -2538,7 +2912,8 @@
     }, 
     "target_16_6": {
         "children": [
-            "indicator_16_6_1"
+            "indicator_16_6_1", 
+            "indicator_16_6_2"
         ], 
         "description": "Develop effective, accountable and transparent institutions at all levels", 
         "number": "16.6", 
@@ -2702,7 +3077,8 @@
     }, 
     "target_17_19": {
         "children": [
-            "indicator_17_19_1"
+            "indicator_17_19_1", 
+            "indicator_17_19_2"
         ], 
         "description": "By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries ", 
         "number": "17.19", 
@@ -2825,6 +3201,7 @@
     }, 
     "target_1_4": {
         "children": [
+            "indicator_1_4_1", 
             "indicator_1_4_2"
         ], 
         "description": "By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance", 
@@ -2836,7 +3213,8 @@
     "target_1_5": {
         "children": [
             "indicator_1_5_1", 
-            "indicator_1_5_2"
+            "indicator_1_5_2", 
+            "indicator_1_5_3"
         ], 
         "description": "By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters ", 
         "number": "1.5", 
@@ -2878,6 +3256,7 @@
     }, 
     "target_2_2": {
         "children": [
+            "indicator_2_2_1", 
             "indicator_2_2_2"
         ], 
         "description": "By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons", 
@@ -2909,6 +3288,7 @@
     }, 
     "target_2_5": {
         "children": [
+            "indicator_2_5_1", 
             "indicator_2_5_2"
         ], 
         "description": "By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species, including through soundly managed and diversified seed and plant banks at the national, regional and international levels, and promote access to and fair and equitable sharing of benefits arising from the utilization of genetic resources and associated traditional knowledge, as internationally agreed", 
@@ -2930,6 +3310,7 @@
     }, 
     "target_2_b": {
         "children": [
+            "indicator_2_b_1", 
             "indicator_2_b_2"
         ], 
         "description": "Correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies and all export measures with equivalent effect, in accordance with the mandate of the Doha Development Round", 
@@ -2961,6 +3342,7 @@
     }, 
     "target_3_2": {
         "children": [
+            "indicator_3_2_1", 
             "indicator_3_2_2"
         ], 
         "description": "By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births", 
@@ -2974,7 +3356,8 @@
             "indicator_3_3_1", 
             "indicator_3_3_2", 
             "indicator_3_3_3", 
-            "indicator_3_3_4"
+            "indicator_3_3_4", 
+            "indicator_3_3_5"
         ], 
         "description": "By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases ", 
         "number": "3.3", 
@@ -3027,6 +3410,7 @@
     }, 
     "target_3_8": {
         "children": [
+            "indicator_3_8_1", 
             "indicator_3_8_2"
         ], 
         "description": "Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all", 
@@ -3038,6 +3422,7 @@
     "target_3_9": {
         "children": [
             "indicator_3_9_1", 
+            "indicator_3_9_2", 
             "indicator_3_9_3"
         ], 
         "description": "By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination", 
@@ -3159,7 +3544,9 @@
         "type": "target"
     }, 
     "target_4_a": {
-        "children": [], 
+        "children": [
+            "indicator_4_a_1"
+        ], 
         "description": "Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all", 
         "number": "4.a", 
         "parent": "goal_4", 
@@ -3241,7 +3628,8 @@
     }, 
     "target_5_6": {
         "children": [
-            "indicator_5_6_1"
+            "indicator_5_6_1", 
+            "indicator_5_6_2"
         ], 
         "description": "Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences", 
         "number": "5.6", 
@@ -3291,7 +3679,9 @@
         "type": "target"
     }, 
     "target_6_2": {
-        "children": [], 
+        "children": [
+            "indicator_6_2_1"
+        ], 
         "description": "By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations", 
         "number": "6.2", 
         "parent": "goal_6", 
@@ -3300,7 +3690,8 @@
     }, 
     "target_6_3": {
         "children": [
-            "indicator_6_3_1"
+            "indicator_6_3_1", 
+            "indicator_6_3_2"
         ], 
         "description": "By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally", 
         "number": "6.3", 
@@ -3321,6 +3712,7 @@
     }, 
     "target_6_5": {
         "children": [
+            "indicator_6_5_1", 
             "indicator_6_5_2"
         ], 
         "description": "By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate ", 
@@ -3330,7 +3722,9 @@
         "type": "target"
     }, 
     "target_6_6": {
-        "children": [], 
+        "children": [
+            "indicator_6_6_1"
+        ], 
         "description": "By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes", 
         "number": "6.6", 
         "parent": "goal_6", 
@@ -3348,7 +3742,9 @@
         "type": "target"
     }, 
     "target_6_b": {
-        "children": [], 
+        "children": [
+            "indicator_6_b_1"
+        ], 
         "description": "Support and strengthen the participation of local communities in improving water and sanitation management ", 
         "number": "6.b", 
         "parent": "goal_6", 
@@ -3357,7 +3753,8 @@
     }, 
     "target_7_1": {
         "children": [
-            "indicator_7_1_1"
+            "indicator_7_1_1", 
+            "indicator_7_1_2"
         ], 
         "description": "By 2030, ensure universal access to affordable, reliable and modern energy services ", 
         "number": "7.1", 
@@ -3386,7 +3783,9 @@
         "type": "target"
     }, 
     "target_7_a": {
-        "children": [], 
+        "children": [
+            "indicator_7_a_1"
+        ], 
         "description": "By 2030, enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology", 
         "number": "7.a", 
         "parent": "goal_7", 
@@ -3488,6 +3887,7 @@
     }, 
     "target_8_8": {
         "children": [
+            "indicator_8_8_1", 
             "indicator_8_8_2"
         ], 
         "description": "Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment", 
@@ -3540,7 +3940,8 @@
     }, 
     "target_9_2": {
         "children": [
-            "indicator_9_2_1"
+            "indicator_9_2_1", 
+            "indicator_9_2_2"
         ], 
         "description": "Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry\u00e2\u20ac\u2122s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries ", 
         "number": "9.2", 
@@ -3560,7 +3961,9 @@
         "type": "target"
     }, 
     "target_9_4": {
-        "children": [], 
+        "children": [
+            "indicator_9_4_1"
+        ], 
         "description": "By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities", 
         "number": "9.4", 
         "parent": "goal_9", 
@@ -3599,7 +4002,9 @@
         "type": "target"
     }, 
     "target_9_c": {
-        "children": [], 
+        "children": [
+            "indicator_9_c_1"
+        ], 
         "description": "Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020", 
         "number": "9.c", 
         "parent": "goal_9", 
