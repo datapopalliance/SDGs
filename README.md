@@ -32,3 +32,15 @@ The Secretariat reviewed and compiled. It also reviewed the proposed tier assign
 
 Possible custodian agencies, other interested agencies and the tier classification itself may be changed moving forward, based on discussions at the 3rd meeting of the IAEG-SDG and in the future.
 
+## Additional variables
+
+In the [`SDG-indicators_proposed-2016-03-24.csv`](SDG-indicators_proposed-2016-03-24.csv) file:
+
+`tier_proposed` and `tier_revised` provide the proposed and revised tiers for each indicator. The values from from the `Proposed Tier by Agency` and `Revised Tier (by Secretariat)` columns of the source PDF file, respectively.
+
+The contain the values `Tier I`, `Tier II`, `Tier III`, or `-` (when blank). In some cases, additional, multiple tiers are proposed, and/or comments are provided to explain the rational of the revised tier.
+
+`tier_proposed_coded` and `tier_revised_coded` provide a numerical version of the values in `tier_proposed_coded` and `tier_revised_coded`, respectively.
+
+They contain the tier `1`, `2`, or `3`; or `blank` if no tier was given in the source file; or `multiple` if more than one tier was given.
+
